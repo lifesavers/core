@@ -12,8 +12,6 @@ By comparison, as of 2012, the United States naturalizes [680,000 citizens per y
 
 Historically, these immigration numbers are far less than what the United States has done with regularity in the past, and are far from our immigrant absorption capacity, especially in the more northern latitudes. 
 
-For the present population, the annual reclaimed life years can be roughly estimated without more complicated actuarial work as the average extended life span for all Tanzanian CWA Sanctuary Seekers were they to migrate at the time of their birth. A back of the envelope calculation would give us 100K TCWA x 30+ years, signifying a floor of 3 Million reclaimed life years, just from the extended life expectancy and survival of TCWA in the northern latitudes of the United States. At a confidant 3 MLY level, this project deserves inclusion in a lifesavers/core/ subdirectory.
-
 Further documentation available on request.
 
 // TODO: Add historical Lawful Permanent Residency and Naturalization Rates, in text or table form, to show presently low proportional velocity of immigration, as controlled for overall population size, particularly for the immigration years leading up to World War I.
