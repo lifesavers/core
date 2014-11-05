@@ -1,4 +1,4 @@
-#ICE S___OS___ Frameworks#
+#ICE S*OS* Frameworks#
 
 Suppose all mobile phones, smart or regular, were required to collect some rudimentary "In Case of Emergency" information from the cellphone registrant at the time that the phone is activated, such as an emergency next-of-kin contact to call in the event of a medical emergency. This rudimentary information populates an "In Case of Emergency" app that meets an applicable regulatory data model and standard that carries enormous value to first responders. The ICE Apps are bundled with each compilation of a mobile operating system designed and marketed for sale in the United States across state lines. Major players with more than 5% market share like Google Android, Apple iOS, and Nokia Symbian would be free to design their own preferred aesthetic interface and entry protocol, so long as the data bins include voluntary form fields for any medical information that may be relevant, including a voluntary load of allergies, known drug interactions, diagnosed medical conditions, and more
 
