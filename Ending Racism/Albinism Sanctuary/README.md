@@ -15,3 +15,9 @@ Historically, these immigration numbers are far less than what the United States
 Further documentation available on request.
 
 // TODO: Add historical Lawful Permanent Residency and Naturalization Rates, in text or table form, to show presently low proportional velocity of immigration, as controlled for overall population size, particularly for the immigration years leading up to World War I.
+
+###Calculations###
+How many flights will this take and what will the cost of the full relocation of refugees be?
+
+550 souls / Boeing 777
+730,000 souls * (Boeing 777 / 550 souls) = 1328 flights (or flight equivalents)
