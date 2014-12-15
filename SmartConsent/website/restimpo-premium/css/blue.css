@@ -1,0 +1,91 @@
+/* Color scheme Blue
+----------------------------------------------- */
+body a,
+body .site-title a,
+body .header-description h1,
+body .menu-box a:hover,
+body .menu-box :hover > a,
+body #wrapper-header .menu-box .current-menu-item > a,
+body #wrapper-header .menu-box .current-menu-ancestor > a,
+body #wrapper-header .menu-box .current_page_item > a,
+body #wrapper-header .menu-box .current-page-ancestor > a,
+body .post-info .read-more,
+body .post-entry .post-entry-headline a,
+body .flexslider .slides li a,
+body .info-box-headline {
+  color: #0a92a6;         
+}
+body .menu-box ul ul,
+body #wrapper-header .menu-box .current-menu-item > a,
+body #wrapper-header .menu-box .current-menu-ancestor > a,
+body #wrapper-header .menu-box .current_page_item > a,
+body #wrapper-header .menu-box .current-page-ancestor > a {
+  border-color: #0a92a6;                     
+}
+body .info-box .info-box-icon {
+  background-color: #0a92a6;                                
+}
+body .header-image .header-image-text .header-image-headline,
+body .content-headline h1,
+body #wrapper-header .flexslider .slides li .header-slider-link {
+  color: #045e6a;                                                             
+}
+body input[type="submit"],
+body input[type="reset"],
+body .custom-button,
+body .info-box .info-box-more,
+#wrapper .container .panel-row-style-restimpo .origin-widget-button a,
+body .header-image .header-image-text .header-image-link,
+body #wrapper-header .flexslider .header-slider-text .header-slider-more {
+  border-color: #045e6a;                                                    
+}
+body .sidebar-widget a {
+  color: #5fb8c4;                       
+}
+body #wrapper-footer {
+  border-color: #65c5d2;                     
+}
+body .social-icon,
+body .highlight-text,
+body #searchform .searchform-wrapper .send {
+  background-color: #65c5d2;                  
+}
+body #searchform .send:hover {
+  background-color: #0c94a7;                             
+}
+body #footer a,
+body .footer-signature .footer-signature-content a {
+  color: #ace3ea;               
+}
+body input[type="submit"],
+body input[type="reset"],
+body .custom-button,
+body .info-box .info-box-more,
+#wrapper .container .panel-row-style-restimpo .origin-widget-button a,
+body .header-image .header-image-text .header-image-link,
+body #wrapper-header .flexslider .header-slider-text .header-slider-more {
+  background: #65c5d2;
+  background: -webkit-gradient(linear, 0 0, 0 100%, from(#65c5d2), color-stop(1em, #3aacbc), to(#0c94a7));
+  background: -webkit-linear-gradient(#65c5d2, #3aacbc 1em, #0c94a7);
+  background: -moz-linear-gradient(top, #65c5d2, #3aacbc 1em, #0c94a7);
+  background: -ms-linear-gradient(#65c5d2, #3aacbc 1em, #0c94a7);
+  background: -o-linear-gradient(#65c5d2, #3aacbc 1em, #0c94a7);
+  background: linear-gradient(#65c5d2, #3aacbc 1em, #0c94a7);
+  -pie-background: linear-gradient(#65c5d2, #3aacbc 1em, #0c94a7);
+}
+body input[type="submit"]:hover,
+body input[type="reset"]:hover,
+body .custom-button:hover,
+body .info-box .info-box-more:hover,
+#wrapper .container .panel-row-style-restimpo .origin-widget-button a:hover,
+body .header-image .header-image-text .header-image-link:hover,
+body #wrapper-header .flexslider .header-slider-text .header-slider-more:hover {
+  background: #0c94a7;
+  background: -webkit-gradient(linear, 0 0, 0 100%, from(#0c94a7), color-stop(1em, #3aacbc), to(#65c5d2));
+  background: -webkit-linear-gradient(#0c94a7, #3aacbc 1em, #65c5d2);
+  background: -moz-linear-gradient(top, #0c94a7, #3aacbc 1em, #65c5d2);
+  background: -ms-linear-gradient(#0c94a7, #3aacbc 1em, #65c5d2);
+  background: -o-linear-gradient(#0c94a7, #3aacbc 1em, #65c5d2);
+  background: linear-gradient(#0c94a7, #3aacbc 1em, #65c5d2);
+  -pie-background: linear-gradient(#0c94a7, #3aacbc 1em, #65c5d2);
+}

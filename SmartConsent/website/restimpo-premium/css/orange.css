@@ -1,0 +1,91 @@
+/* Color scheme Orange
+----------------------------------------------- */
+body a,
+body .site-title a,
+body .header-description h1,
+body .menu-box a:hover,
+body .menu-box :hover > a,
+body #wrapper-header .menu-box .current-menu-item > a,
+body #wrapper-header .menu-box .current-menu-ancestor > a,
+body #wrapper-header .menu-box .current_page_item > a,
+body #wrapper-header .menu-box .current-page-ancestor > a,
+body .post-info .read-more,
+body .post-entry .post-entry-headline a,
+body .flexslider .slides li a,
+body .info-box-headline {
+  color: #ff800b;         
+}
+body .menu-box ul ul,
+body #wrapper-header .menu-box .current-menu-item > a,
+body #wrapper-header .menu-box .current-menu-ancestor > a,
+body #wrapper-header .menu-box .current_page_item > a,
+body #wrapper-header .menu-box .current-page-ancestor > a {
+  border-color: #ff800b;                     
+}
+body .info-box .info-box-icon {
+  background-color: #ff800b;                                
+}
+body .header-image .header-image-text .header-image-headline,
+body .content-headline h1,
+body #wrapper-header .flexslider .slides li .header-slider-link {
+  color: #ad5503;                                                             
+}
+body input[type="submit"],
+body input[type="reset"],
+body .custom-button,
+body .info-box .info-box-more,
+#wrapper .container .panel-row-style-restimpo .origin-widget-button a,
+body .header-image .header-image-text .header-image-link,
+body #wrapper-header .flexslider .header-slider-text .header-slider-more {
+  border-color: #ad5503;                                                    
+}
+body .sidebar-widget a {
+  color: #f2a055;                       
+}
+body #wrapper-footer {
+  border-color: #ffb978;                     
+}
+body .social-icon,
+body .highlight-text,
+body #searchform .searchform-wrapper .send {
+  background-color: #ffb978;                  
+}
+body #searchform .send:hover {
+  background-color: #ff820e;                             
+}
+body #footer a,
+body .footer-signature .footer-signature-content a {
+  color: #ffdbba;               
+}
+body input[type="submit"],
+body input[type="reset"],
+body .custom-button,
+body .info-box .info-box-more,
+#wrapper .container .panel-row-style-restimpo .origin-widget-button a,
+body .header-image .header-image-text .header-image-link,
+body #wrapper-header .flexslider .header-slider-text .header-slider-more {
+  background: #ffb978;
+  background: -webkit-gradient(linear, 0 0, 0 100%, from(#ffb978), color-stop(1em, #ffa24b), to(#ff820e));
+  background: -webkit-linear-gradient(#ffb978, #ffa24b 1em, #ff820e);
+  background: -moz-linear-gradient(top, #ffb978, #ffa24b 1em, #ff820e);
+  background: -ms-linear-gradient(#ffb978, #ffa24b 1em, #ff820e);
+  background: -o-linear-gradient(#ffb978, #ffa24b 1em, #ff820e);
+  background: linear-gradient(#ffb978, #ffa24b 1em, #ff820e);
+  -pie-background: linear-gradient(#ffb978, #ffa24b 1em, #ff820e);
+}
+body input[type="submit"]:hover,
+body input[type="reset"]:hover,
+body .custom-button:hover,
+body .info-box .info-box-more:hover,
+#wrapper .container .panel-row-style-restimpo .origin-widget-button a:hover,
+body .header-image .header-image-text .header-image-link:hover,
+body #wrapper-header .flexslider .header-slider-text .header-slider-more:hover {
+  background: #ff820e;
+  background: -webkit-gradient(linear, 0 0, 0 100%, from(#ff820e), color-stop(1em, #ffa24b), to(#ffb978));
+  background: -webkit-linear-gradient(#ff820e, #ffa24b 1em, #ffb978);
+  background: -moz-linear-gradient(top, #ff820e, #ffa24b 1em, #ffb978);
+  background: -ms-linear-gradient(#ff820e, #ffa24b 1em, #ffb978);
+  background: -o-linear-gradient(#ff820e, #ffa24b 1em, #ffb978);
+  background: linear-gradient(#ff820e, #ffa24b 1em, #ffb978);
+  -pie-background: linear-gradient(#ff820e, #ffa24b 1em, #ffb978);
+}
