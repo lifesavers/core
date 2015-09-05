@@ -20,36 +20,37 @@ Notably, this KB was originally re⇌signed in 上海, and in a spurt of work on
 
 v0.03
 -----
-This version (0.03) went through multiple release candidate (rc) stages. The latest v003rc6 was focused on the following goals:
-☐ Publication quality for Dr. Gawande's consideration, for worldwide deployment of checklist character
-☐ Support for Basic Six-point International Braille {at Shift-Control-∆ KB}
-☐ Support for classroom lessons in 化学, the Course on Transformation (∱Eng: Chemistry; |Eng: ∆ Bonding), including superscript + and superscript - {Alt|Option-Control +; Alt|Option-Control -}
-☐ Added support for ∱TEAM subjects with alphabetic superscripts and subscripts up to Unicode's Limitations
-☐ Active i18n support for Español {1.76MΩ} rebalanced with ∱ Standard English {1.57MΩ}, Português {0.93MΩ}, Deutsch {.39MΩ}, Français {.32MΩ}, Türkçe {.27MΩ} with its fascinating dotless i, and β|ess (Ᏼranch Logic English, with Storied Spellings) {|English -- Unknown Pop.}. Many of the accented characters for the i18n were already included in the earlier ∱Path Release Candidates, in the four written 拼音 Pinyin tones {¯,´,ˇ,`}. The remainder were tucked into the best places that could be found. Cross-langauge reoptimization suggestions are both welcome and strongly encouraged; a complete simulated annealing study for supported langauge usage patterns vs. the socially dominant KB platform, weighted in part by affected population and in part by letter frequency, could resolve the optimality question more wisely than has already been done.
-☐ Further support of 普通话 Path (PTH: Putonghua) characters {4.15MΩ}, including the double layer of {人|仐}, {元,☑}, {提高,☐}, {不是你,☒}
-☐ "☾∀LM" expression is greatly accelerated with "quarter moon crescent, last" (☾) and "for all" (∀)
-☐ A full range of new and old proprietary codex designators for intellectual and other property is available at Option-W (Ⓦ), under the Property Claims Dead Key. The Set includes a designator for the Kohlberg Commons (㊱), Government (DK - 〶), General Will (✪ x 5), and The Creative Heaven (䷀). It is missing a symbol for the Creative Commons: ䷀ may suffice, for your needs, or visit https://creativecommons.org/.
-☐ Extensive logical support for Herstory, in the section titled, "CALM⁴ Herstory". (This section would benefit from mnemonic reorganization, using logical blocks or natural gaugelan |langauge dead key series.)
-☐ Modification of the number row layout from Espagñol layout to accommodate faster file directory navigation and programming with / and \ directory separators and escapes
+This version (0.03) went through multiple release candidate (rc) stages. The latest v003rc6 was focused on the following goals:  
+☐ Publication quality for Dr. Gawande's consideration, for worldwide deployment of checklist character  
+☐ Support for Basic Six-point International Braille {at Shift-Control-∆ KB}  
+☐ Support for classroom lessons in 化学, the Course on Transformation (∱Eng: Chemistry; |Eng: ∆ Bonding), including superscript + and superscript - {Alt|Option-Control +; Alt|Option-Control -}  
+☐ Added support for ∱TEAM subjects with alphabetic superscripts and subscripts up to Unicode's Limitations  
+☐ Active i18n support for Español {1.76MΩ} rebalanced with ∱ Standard English {1.57MΩ}, Português {0.93MΩ}, Deutsch {.39MΩ}, Français {.32MΩ}, Türkçe {.27MΩ} with its fascinating dotless i, and β|ess (Ᏼranch Logic English, with Storied Spellings) {|English -- Unknown Pop.}. Many of the accented characters for the i18n were already included in the earlier ∱Path Release Candidates, in the four written 拼音 Pinyin tones {¯,´,ˇ,`}. The remainder were tucked into the best places that could be found. Cross-langauge reoptimization suggestions are both welcome and strongly encouraged; a complete simulated annealing study for supported langauge usage patterns vs. the socially dominant KB platform, weighted in part by affected population and in part by letter frequency, could resolve the optimality question more wisely than has already been done.  
+☐ Further support of 普通话 Path (PTH: Putonghua) characters {4.15MΩ}, including the double layer of {人|仐}, {元,☑}, {提高,☐}, {不是你,☒}  
+☐ "☾∀LM" expression is greatly accelerated with "quarter moon crescent, last" (☾) and "for all" (∀)  
+☐ A full range of new and old proprietary codex designators for intellectual and other property is available at Option-W (Ⓦ), under the Property Claims Dead Key. The Set includes a designator for the Kohlberg Commons (㊱), Government (DK - 〶), General Will (✪ x 5), and The Creative Heaven (䷀). It is missing a symbol for the Creative Commons: ䷀ may suffice, for your needs, or visit https://creativecommons.org/.  
+☐ Extensive logical support for Herstory, in the section titled, "CALM⁴ Herstory". (This section would benefit from mnemonic reorganization, using logical blocks or natural gaugelan |langauge dead key series.)  
+☐ Modification of the number row layout from Espagñol layout to accommodate faster file directory navigation and programming with / and \ directory separators and escapes  
 
-Although the Option, Shift, and Option-Shift Registers are quite packed, there is still plenty of ∱pace in the Control Register's Top Row, and the Shift-Control KB is practically greenfield. Further reoptimizing compression is conceivable, particularly with the Expansion available from Additional "Dead Key" Compressive Functionality.
+Although the Option, Shift, and Option-Shift Registers are quite packed, there is still plenty of ∱pace in the Control Register's Top Row, and the Shift-Control KB is practically greenfield. Further reoptimizing compression is conceivable, particularly with the Expansion available from Additional "Dead Key" Compressive Functionality.  
 
-This release does not yet cover the full symbol set required for Advanced Placement Physics - 物理 (Logic of Matter). i / In a future release, the extended registers of this KB may be reorganized to a degree to accommodate all of the keynotes for 物理 the Theory of Everything (Physical).
+This release does not yet cover the full symbol set required for Advanced Placement Physics - 物理 (Logic of Matter). i / In a future release, the extended registers of this KB may be reorganized to a degree to accommodate all of the keynotes for 物理 the Theory of Everything (Physical).  
 
 v0.01-v0.02
 -----------
-Much of the documentation for the earliest stages of Creation were lost long ago, in a disastrous laptop loss. i / I will do my best to document what motivates the choices that are present in the current KB.
+Much of the documentation for the earliest stages of Creation were lost long ago, in a disastrous laptop loss. i / I will do my best to document what motivates the choices that are present in the current KB.  
 
-apple1to56
+
+Organized for Religious Exception, Exemption, and Expression, as apple1to56, racing, with a xenophilic preference, and a clock-out on all the unobtainables.
 
 Acknowledgments
 ---------------
-☐ Ukulele.app, John Brownie of SIL
-☐ Earthlingsoft Unicode Checker
-☐ Adobe Conversion Scripts
-☐ Apple KB Creators
-☐ MKLC (for Windows Reverse Equilibra)
-☐ Checklist Manifesto, by Gawande, A. 
+☐ Ukulele.app, John Brownie of SIL  
+☐ Earthlingsoft Unicode Checker  
+☐ Adobe Conversion Scripts  
+☐ Apple KB Creators  
+☐ MKLC (for Windows Reverse Equilibra)  
+☐ Checklist Manifesto, by Gawande, A.   
 
 
 Quick Advantages and Features Chart, Per Langauge
