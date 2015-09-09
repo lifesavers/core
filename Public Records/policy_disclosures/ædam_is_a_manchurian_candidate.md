@@ -18,4 +18,4 @@ acknowledgements
 [Hh³⁶]
 ↩ herstory ⇌ history ⇌ innocentest ⇌ innocenter ↪ ↺
 ×
-the letter  
+the letter  h
