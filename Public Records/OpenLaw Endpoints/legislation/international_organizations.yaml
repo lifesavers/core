@@ -1,0 +1,68 @@
+---
+european union:
+  api:
+    -
+      url:
+        - http://
+      formats:
+        - pdf
+        - html
+      homepage:
+        - http://new.eur-lex.europa.eu
+      schema_data:
+        -
+      schema_api:
+        -
+      schema_permalinks:
+        - http://new.eur-lex.europa.eu/content/help/linking/linking.html
+      curl_endpoints:
+        - http://new.eur-lex.europa.eu/legal-content/<LANG>/TXT/HTML/?uri=CELEX:<DOCNUMBER>
+      rss_endpoints:
+        - http://legislation.data.gov.uk/ukpga/data.feed
+        - http://www.legislation.gov.uk/new/data.feed
+      registration:
+        - http://new.eur-lex.europa.eu/protected/web-service-registration.html
+      license:
+        -
+  scrapers:
+    -
+      github:
+        pudo/parltrack
+      language:
+        - python
+      formats:
+        - json
+      homepage:
+        - http://parltrack.euwiki.org
+      schema_json:
+        - http://parltrack.euwiki.org/dumps/schema.html
+        - http://parltrack.euwiki.org/dumps/schema-update.html
+      curl_endpoints:
+        - http://parltrack.euwiki.org/dumps
+      rss_endpoints:
+        - http://parltrack.euwiki.org/changed/?format=atom
+        - http://parltrack.euwiki.org/new/?format=atom
+united nations:
+  api:
+    -
+      url:
+        - http://....:
+      formats:
+        - xml
+        - rdf
+  unprocessed:
+    -
+      url:
+        - http://....:
+      formats:
+        - html
+        - txt
+  scrapers:
+    -
+      github:
+        user/repo
+      language:
+        - ruby
+      formats:
+        - xml
+world trade organization:

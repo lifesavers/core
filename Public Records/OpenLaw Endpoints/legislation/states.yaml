@@ -1,0 +1,61 @@
+---
+somalia:
+  api:
+  - url:
+    - http://....:
+    formats:
+    - xml
+    - rdf
+  unprocessed:
+  - url:
+    - http://....:
+    formats:
+    - html
+    - txt
+  scrapers:
+  - github: user/repo
+    lang: -ruby
+    formats:
+    - xml
+sweden:
+  api:
+  - url:
+    - http://www.lagrummet.se/
+united kingdom:
+  api:
+  - url:
+    - http://legislation.data.gov.uk
+    formats:
+    - html
+    - pdf
+    - rdf
+    - text
+    - xml
+    schema_api:
+    - http://data.gov.uk/dataset/legislation-api
+    rss_endpoints:
+    - http://legislation.data.gov.uk/ukpga/data.feed
+    - http://www.legislation.gov.uk/new/data.feed
+    - http://www.legislation.gov.uk/new/ukpga/data.feed
+    - http://www.legislation.gov.uk/new/uksi/data.feed
+    - http://www.legislation.gov.uk/new/nisr/data.feed
+    - http://www.legislation.gov.uk/new/asp/data.feed
+    - http://www.legislation.gov.uk/new/ssi/data.feed
+    - http://www.legislation.gov.uk/new/anaw/data.feed
+    - http://www.legislation.gov.uk/new/wsi/data.feed
+    notes: The API is RESTful and uses content negotiation, so full access to the
+      data can be achieved using http requests. Alternatively, just append /data.xml
+      or /data.rdf to any legislation page on the website to return the underlying
+      data.
+united states:
+  unprocessed:
+  - url:
+    - http://uscodebeta.house.gov/download/download.shtml:
+    formats:
+    - pcc
+    - pdf
+    - xml
+    - xhtml
+    schema_data:
+    - http://uscodebeta.house.gov/download/resources/schemaandcss.zip
+    notes: zip files

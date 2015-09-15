@@ -1,0 +1,29 @@
+{
+  "united kingdom": null,
+  "united states": {
+    "tennessee": {
+      "api": {
+        "http://....": [
+          "xml",
+          "rdf"
+        ]
+      },
+      "unprocessed": {
+        "http://....": [
+          "html",
+          "txt"
+        ]
+      },
+      "scrapers": {
+        "github": [
+          "user/repo",
+          "ruby",
+          [
+            "xml"
+          ]
+        ]
+      }
+    },
+    "utah": null
+  }
+}
