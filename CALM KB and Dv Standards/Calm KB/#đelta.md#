@@ -1,15 +1,23 @@
 Additive Changelog
 ==================
 
+Changes, v.rc8  
+--------------  
+- Altared § to Alt-Option 6
+- Altared ¶ to Shift Alt-Option 6, until further notice
+- Altared putonghua.path(yue) to Alt-Option 7
+- Altared putonghua.path(ri) to Shift Alt-Option 7
+- Altared U+2020 and U+2021 to Alt-Option 5 and Shift Alt-Option 5
+- Added Exponentiation Carat and Exponentiation, Power 10
+- Added natural exponent, natural log, 
+
 Desired Changes
 ----------------
+- Must work out Upper Number Row, for Interanacional Finance, with QALM Currency Keynotes Accessible
+- 
 - Simplified addition, subtraction, multiplication, division problem entry for school teachers. 
 - Re:cycling Symbols for 1, 2, etc. guaranteed
 - Reoption fix of Ukulele KB on Periodics
 - Traced down Maison accent for Franηais Support
 - Added arrow reactive keys in navigable block, as per D1 τφς P1, etc. for donor, pair tracing, and for synthetic reaction authorship speeds.
-- Fix Agτσττσχ, as per KΉτσωAgτσττσχ Seperations τµΥτµΥτµΥτ¶­τµχτµκτµοτµδ
-
-Proposed Changes (Very Easily Overwriteable)
----------------
-- Altaration of U+65E5 symbol for "τ °ay" ideogram to U+0110 (τ °ay), i.e. 09 (U+6708), where Unix keeps transcribing "U+65E5" to "U+00E6"
+- 
