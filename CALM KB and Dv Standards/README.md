@@ -1,5 +1,5 @@
 Dv Standards Shift
-==============
+====================
 
 Dear Hacker News,
 
@@ -7,10 +7,15 @@ To catalyze the shift to the Dv Keyboard Families, and anneal a better Standard 
 
 The most straightforward way is with a triple letter codon, most naturally placed on the "QWE" or "qwe". If we assign the less energetic variant to Dv, the preference will be clear enough to human hands, in simple and transparent industrial design langauge, as a gentle and slow counter to the QWERTY KBs ESS dominance. 
 
-From QWERKY: qwe (Dv: ',.) maps to Dv KB v1.X
-From DVORAK: "<> (Dv: QWE) maps to QWERTY Static
+```
+> From QWERKY: qwe (Dv: ',.) maps to Dv_KB_v1.X.layout  
+> From DVORAK: "<> (Dv: QWE) maps to QWERKY.layout  
+```
 
-We also need a Mac-Ubuntu-Windows Cross-Platform KB Builder Fully-Unicode-Adherant GUI with a Cross-Platform Export Simulation Tool that's as good as Ukulele.app, with equal or specially realtime flagged limitations on all Platforms, and better cross-platform KB restriction characterizations. An amazing Vmonth team can handle both, or cross-couple with other Couples and Coupled Organizations that can take this Programmatic Calmunity task on. 
+
+I don't know the simplest way to set this up with a HID chord listener during boot protocol. Does anyone at or in Apple, Microsoft, Ubuntu know how to phase this pattern into the kernel, for a easy-to-ritualize "first stroke" on shared KB environments, during "Major" and "Minor" Syn-thesis Platform shift?
+
+We also need a Mac-Ubuntu-Windows Cross-Platform KB Builder Fully-Unicode-Adherant GUI with a Cross-Platform Export Simulation Tool that's as good as Ukulele.app, with equal or specially realtime flagged limitations on all Platforms, and better cross-platform KB restriction characterizations. An amazing Vmonth team can handle both, or cross-couple with other Couples and Coupled Organizations that can take this Programmatic Calmunity task on. There all kinds of layer tools that are missing that impinge on restricting the 1st Amendment. We're not using the Printing Press or the Mechanical Typewriter anymore. We can extend our KBs, and make everything in any con'science class You've ever been inspired and enabled by more expressible, and hence more frequently expressed.
 
 Here's an extensive attempt to reach a release candidate worthy of the name. This needs further work, and if this discussion develops past hello, i / I will dump my most recent understanding of the worst errors in this particular Calm KB build, such as a few missing Elements in the coverage of the Periodic Table of Elements. Considering my life status as an Alchemy (Chemistry of Change) Teacher, I know this needs to be fixed, and have raced it down, but there are other problem spots, like the balancing calm fort of arithmetic operations for elementary maths students and teachers, and better mnemonic platforms for herstory logical operator organizations, that support bearing witness to deep-root.ed prevention thinking and calmunicating in an exchange format that is makes extended character base more accessible, earlier, for wiser generations that can climb out of a mod 26 pigeonholed langauge, as persons like Benjamin Franklin, and many others well-known to herstory, wanted to themselves, in the establishment of extended logogram sets and alphabets that are curated channels for better-integrated thought within a child's reach in the course of calmunity differentiation.  
 
