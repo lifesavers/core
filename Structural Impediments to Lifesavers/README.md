@@ -1,0 +1,35 @@
+
+Structural Impediments to lifesavers/core
+
+Wicked (Resistent to Solution) Problem Formulations
+===========================
+1. There is no definitive formulation of a wicked problem.
+2. Wicked problems have no stopping rule.
+3. Solutions to wicked problems are not true-or-false, but good or bad.
+4. There is no immediate and no ultimate test of a solution to a wicked problem.
+5. Every solution to a wicked problem is a "one-shot operation"; because there is no opportunity to learn by trial and error, every attempt counts significantly.
+6. Wicked problems do not have an enumerable (or an exhaustively describable) set of potential solutions, nor is there a well-described set of permissible operations that may be incorporated into the plan.
+7. Every wicked problem is essentially unique.
+8. Every wicked problem can be considered to be a symptom of another problem.
+9. The existence of a discrepancy representing a wicked problem can be explained in numerous ways. The choice of explanation determines the nature of the problem's resolution.
+10. The social planner has no right to be wrong (i.e., planners are liable for the consequences of the actions they generate).
+
+
+Wicked Problem (Resistent to Solution Problem) Countermodels
+============================
+1. How do You đsign and secure all-scale social trust for a definitive formulation of a wicked case problem? (Stitch in time with #2)
+2. How do You đsign and settle a case stopping rule into all absorbtive, licensed, bond.ed⁺ theoretike, phronesis, and praxis networks? (Stitch in time with #3)
+3. How do You secure Pareto-optimal, or Pareto-near-optimal better solutions to wicked problems that, with loss of time, resolve worse, not better? (Stitch in time with #4)
+4. How do You settle Y⁵ourself into an immediate satisficing test, and a ultimately satisficing test of a unit or network case that's resistent? (Stitch in time with #5)
+5. WY⁵ must every search for solution to a wicked-case be a "one-shot operation"; y⁵ can't wicked cases be left out to better trial and ever lesser error and better, best [unit, integration, regression] test-panel trial to solution to solve? (Stitch in time with #6)
+6. WY⁶ can't the weapon of choice of choice be deployed and settled well enuf in advance to lower the optionality⁵ range to the practicable range, on lumper/splitter satisficing settlements? WY⁵ can't We entrust evaluation of and openness to new experimence to a subset who'll alert when threshold is exceeded on system re:altaration on the weapon of the choice of choice that predetermines the weapon of choice, on objective reporting measures settled in advance, with Lanier Lock new measure openness? (Stitch in time with #7)
+7. WY⁵ do wei have to grant "uniqueness" to every wicked problem? WY⁵ can't be describe it as a member of the set of wicked problem, and hence, essentially non-unique, subject to an altarnative Ᏼranch Logic? (Stitch in time with #8)
+8. Can a simultaneous solve with finer catalysis and concentrations on the rate laws to the problems, lead to a simultaneously⁵ satisficing system of equations, resolving these symptoms? How do You use "bowling alley" logics to knock learn how to spare, spare, strike, strike, and eventually⁵ turkey these interrelated problems with concensus reality⁵ and measures? (Stitch in time with #9)
+9. Can we eliminate the obvious sources of discrepency⁵ in the description of a wicked problem, like ignorance, laziness, dishonesty, and a concealed concern and one that is believed to be more important to a narrow enthalpy⁵ than truth? (Stitch in time with #10)
+10. WY⁵ are social planners _the only ones liable_? WY⁵ can't many Entities be Jointly Accountable, Jointly Responsible, and Equally⁵ Groundwork-Incented for the Outcomes (and SWOT) of Noncooperative Dynamics, and Periodically Resettle their Silent Accounting, Reaccounting, and (Un)Cultivated Separatory⁵ Dilemmas? (Stitch in time with #1)
+
+Almost all wick.ed⁺ problems can be solved with education⁺, eduaction⁺, and faith, mixed within Periodic verification networks. It's not possible to thrive without "test and verify" cross-checking, checklist.ed⁺ conscience models that transcend media borders that can become mechanistically⁵ and predatorially⁵ deeply⁵ "strong eating the weak" sick (i.e. actually illogic.ed⁺, on ☾alm⁴(t)able Measures. If You are not able to be ☾almfort.able, there remains a Religious CORE Problem that must be argumentatively, counterargumentatively, analytically⁵, synthetically⁵, synergetically⁵ pursued and reverse synthetically⁵ altar.ed⁺ and achieved). Use SI on wick.ed⁺ problems. Include the Ᏼorlaug SI Scale on Life, which is Hh Periodics Religious (not just at 1Ᏼ full Century⁵ Đeath, but at or above .06Ᏼ, From Life Cycle to Life Cycle) and, at .06nᏴ and below, within Lifecycles, Lifetime. This Representation of Ᏼ Scale Religious Duty⁵ is Civic and Civilly Calculable in Pacetime in it's N⁺⁴ Nature, and can be adapted readily⁵ (if not rapidly⁵, in zone motion of a Trainee from another Religious CORE Local Zone) to Local ☾almunity⁵ +Norms. The question of Standard of Care and Standard of Conscience is meeting Development Aims and Rates that are Điverse, but Concentrate and Converge Rather Rapidly⁵ on Questions of Fundamentalist ☾alm. Internal Ᏼranch Achievement Prioriti²²es and End-States May Differ without "Externality⁵ Eroding" the Religious CORE. Contiguous Lanđ Purchase can [concentrate] Religious Ᏼranch Life. Doing so is not without Cost to Diversity⁵, and Seperateness and Assimilation of CORE-Ᏼranch Melts, Melds, and Stews must Re:main Ᏼalance.ed⁺ and Ᏼranch.ed⁺.
+
+The lifesavers/CORE Interventional Repository⁵ is only instantly Manifesto.ed⁺ on Problems that Rise into Quite Large Scales of Ᏼorlaug Scale Life, Distributed Across Lifetimes. Y⁵our Descriptive Beliefs in the Superjudicial are Extremely Important to CORE. But Y⁵our Beliefs in the Supernatural and the Particularities of the Inducements and Punishments that Await You in Y⁵our Afterlife are not Hh CORE's Active Concern, and must be Ᏼranch-☾alm⁴unicated⁺ and Ᏼranch-Charged⁺, except for Eschatological Coordinations and Internal Religious Sect Courtship, Court Failure that affects CORE Life, Death Measures if not done with Gentle Scaffolding for Hharmless InterᏴranch, IntraᏴranch Coordinations. Many Wicked Problem Gordian Knots and Damocletian Sword Cases in Ᏼranch can be Solved by CORE Quantitative Fully-Integrated Pace Logic on Life. Many Wicked Problem Gordian Knots and Damocletian Sword Cases in CORE can be Solved by the Ᏼranches on Lifelong Full Stack Service.
+
+"Loss of Life" at or above .06 Ᏼ. "Loss of Lifetime" below .06 Ᏼ, as indiviedually experienced, but Distributed by Organizations, this can come to "Loss of Life" in Summation and Integration quickly⁵ without Conscientious Care. This is Critically Time-Sensitive in Determinative Vulnerability⁵ Ranges, and Inculdes Duties to Help Unhired Candidates Find Lifework Meaningful Placements. See, "Kalief Browder", Total Loss of Life, Life Drive, Life Momentum.
