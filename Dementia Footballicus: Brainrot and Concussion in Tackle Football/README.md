@@ -28,6 +28,7 @@ The Public, via the Government, might well pay for it entirely. I don't like the
 
 Let Russell Davis study and take another unpopular stance that's Right. Davis is empirically qualified as a Hippocratic hand Candidate.
 
+To be clear, i, in my understanding of responsibility, can be held responsible for 2 years of childhood brain rot for not writing this, here. 
 
 <!--Links-->
 [players_broken_and_broke]: http://nypost.com/2014/12/14/how-the-nfl-leaves-players-broken-and-broke/
