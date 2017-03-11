@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+
+gem 'rake', '~> 10.1.0'
+gem 'rspec', '~> 2.14.0', :require => 'spec'

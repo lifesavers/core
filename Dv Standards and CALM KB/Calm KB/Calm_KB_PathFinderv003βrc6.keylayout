@@ -1,0 +1,2585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
+<!--Created by Ukelele version 2.2.8 on 2015-05-21 at 12:48 (GMT+9)-->
+<!---->
+<!---->
+<!--Last edited by Ukelele version 2.2.8 on 2015-06-16 at 11:41 (GMT+8)-->
+<keyboard group="126" id="-10406" name="Calm KB Path Finder | v0.03βrc6" maxout="16">
+    <layouts>
+        <layout first="0" last="17" modifiers="f4" mapSet="984"/>
+        <layout first="18" last="18" modifiers="f4" mapSet="16c"/>
+        <layout first="21" last="23" modifiers="f4" mapSet="16c"/>
+        <layout first="30" last="30" modifiers="f4" mapSet="16c"/>
+        <layout first="194" last="194" modifiers="f4" mapSet="16c"/>
+        <layout first="197" last="197" modifiers="f4" mapSet="16c"/>
+        <layout first="200" last="201" modifiers="f4" mapSet="16c"/>
+        <layout first="206" last="207" modifiers="f4" mapSet="16c"/>
+    </layouts>
+    <modifierMap id="f4" defaultIndex="0">
+        <keyMapSelect mapIndex="0">
+            <modifier keys="command?"/>
+            <modifier keys="anyShift? caps? command"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="1">
+            <modifier keys="anyShift caps?"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="2">
+            <modifier keys="caps"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="3">
+            <modifier keys="anyOption"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="4">
+            <modifier keys="anyShift caps? anyOption command?"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="5">
+            <modifier keys="caps anyOption"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="6">
+            <modifier keys="anyShift caps? option? command? control"/>
+            <modifier keys="shift? caps? anyOption command? control"/>
+            <modifier keys="caps? anyOption? command? control"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="7">
+            <modifier keys="anyOption control"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="8">
+            <modifier keys="anyShift anyControl"/>
+        </keyMapSelect>
+    </modifierMap>
+    <keyMapSet id="16c">
+        <keyMap index="0" baseMapSet="984" baseIndex="0">
+            <key code="24" action="84"/>
+            <key code="30" output="["/>
+            <key code="33" action="78"/>
+            <key code="39" output=":"/>
+            <key code="42" output="]"/>
+            <key code="93" output="¥"/>
+            <key code="94" output="_"/>
+            <key code="95" output=","/>
+            <key code="102" action="25"/>
+            <key code="104" action="25"/>
+        </keyMap>
+        <keyMap index="1" baseMapSet="984" baseIndex="1">
+            <key code="19" action="89"/>
+            <key code="22" action="100"/>
+            <key code="24" output="~"/>
+            <key code="25" output=")"/>
+            <key code="26" action="90"/>
+            <key code="27" output="="/>
+            <key code="28" output="("/>
+            <key code="29" output="0"/>
+            <key code="30" output="{"/>
+            <key code="33" output="`"/>
+            <key code="39" action="87"/>
+            <key code="41" output="+"/>
+            <key code="42" output="}"/>
+            <key code="93" output="|"/>
+            <key code="94" output="_"/>
+            <key code="95" output=","/>
+            <key code="102" action="25"/>
+            <key code="104" action="25"/>
+        </keyMap>
+        <keyMap index="2" baseMapSet="984" baseIndex="2">
+            <key code="24" action="84"/>
+            <key code="30" output="["/>
+            <key code="33" action="78"/>
+            <key code="39" output=":"/>
+            <key code="42" output="]"/>
+            <key code="93" output="¥"/>
+            <key code="94" output="_"/>
+            <key code="95" output=","/>
+            <key code="102" action="25"/>
+            <key code="104" action="25"/>
+        </keyMap>
+        <keyMap index="3" baseMapSet="984" baseIndex="3">
+            <key code="93" output="\"/>
+            <key code="94" action="1"/>
+            <key code="95" output=","/>
+            <key code="102" action="25"/>
+            <key code="104" action="25"/>
+        </keyMap>
+        <keyMap index="4" baseMapSet="984" baseIndex="4">
+            <key code="93" output="\"/>
+            <key code="94" output="̀"/>
+            <key code="95" output=","/>
+            <key code="102" action="25"/>
+            <key code="104" action="25"/>
+        </keyMap>
+        <keyMap index="5" baseMapSet="984" baseIndex="5">
+            <key code="93" output="\"/>
+            <key code="94" output="`"/>
+            <key code="95" output=","/>
+            <key code="102" action="25"/>
+            <key code="104" action="25"/>
+        </keyMap>
+        <keyMap index="6" baseMapSet="984" baseIndex="6">
+            <key code="93" output="|"/>
+            <key code="94" output="_"/>
+            <key code="95" output=","/>
+            <key code="102" action="25"/>
+            <key code="104" action="25"/>
+        </keyMap>
+        <keyMap index="7" baseMapSet="984" baseIndex="7">
+            <key code="512" output=""/>
+        </keyMap>
+        <keyMap index="8" baseMapSet="984" baseIndex="8">
+            <key code="512" output=""/>
+        </keyMap>
+    </keyMapSet>
+    <keyMapSet id="984">
+        <keyMap index="0">
+            <key code="0" action="27"/>
+            <key code="1" action="63"/>
+            <key code="2" action="33"/>
+            <key code="3" action="37"/>
+            <key code="4" action="41"/>
+            <key code="5" action="39"/>
+            <key code="6" action="77"/>
+            <key code="7" action="73"/>
+            <key code="8" action="31"/>
+            <key code="9" action="69"/>
+            <key code="10" output="§"/>
+            <key code="11" action="29"/>
+            <key code="12" action="59"/>
+            <key code="13" action="71"/>
+            <key code="14" action="35"/>
+            <key code="15" action="61"/>
+            <key code="16" action="75"/>
+            <key code="17" action="65"/>
+            <key code="18" action="1 1"/>
+            <key code="19" action="79"/>
+            <key code="20" action="81"/>
+            <key code="21" action="4 1"/>
+            <key code="22" action="85"/>
+            <key code="23" action="83"/>
+            <key code="24" action="±"/>
+            <key code="25" action="9 1"/>
+            <key code="26" action="86"/>
+            <key code="27" action="!"/>
+            <key code="28" action="88"/>
+            <key code="29" action="0 1"/>
+            <key code="30" action="ñ"/>
+            <key code="31" action="55"/>
+            <key code="32" action="67"/>
+            <key code="33" action="/"/>
+            <key code="34" action="43"/>
+            <key code="35" action="57"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" action="49"/>
+            <key code="38" action="45"/>
+            <key code="39" action="90"/>
+            <key code="40" action="47"/>
+            <key code="41" action="s"/>
+            <key code="42" action="?"/>
+            <key code="43" action="w"/>
+            <key code="44" action="z"/>
+            <key code="45" action="53"/>
+            <key code="46" action="51"/>
+            <key code="47" action="v"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="49" action="25"/>
+            <key code="50" action="&#x003C;"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <key code="66" output="&#x001D;"/>
+            <key code="67" action="87"/>
+            <key code="69" output="+"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="75" output="/"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="78" output="-"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="102" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="104" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="108" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="110" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="112" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="1">
+            <key code="0" action="26"/>
+            <key code="1" action="62"/>
+            <key code="2" action="32"/>
+            <key code="3" action="36"/>
+            <key code="4" action="40"/>
+            <key code="5" action="38"/>
+            <key code="6" action="76"/>
+            <key code="7" action="72"/>
+            <key code="8" action="30"/>
+            <key code="9" action="68"/>
+            <key code="10" output="±"/>
+            <key code="11" action="28"/>
+            <key code="12" action="58"/>
+            <key code="13" action="70"/>
+            <key code="14" action="34"/>
+            <key code="15" action="60"/>
+            <key code="16" action="74"/>
+            <key code="17" action="64"/>
+            <key code="18" action="~"/>
+            <key code="19" action="78"/>
+            <key code="20" action="80"/>
+            <key code="21" action="$"/>
+            <key code="22" action="84"/>
+            <key code="23" action="82"/>
+            <key code="24" output="+"/>
+            <key code="25" output="("/>
+            <key code="26" action="100"/>
+            <key code="27" output="¡"/>
+            <key code="28" action="87"/>
+            <key code="29" output=")"/>
+            <key code="30" output="Ñ"/>
+            <key code="31" action="54"/>
+            <key code="32" action="66"/>
+            <key code="33" output="Ç"/>
+            <key code="34" action="42"/>
+            <key code="35" action="56"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" action="48"/>
+            <key code="38" action="44"/>
+            <key code="39" action="89"/>
+            <key code="40" action="46"/>
+            <key code="41" action="S"/>
+            <key code="42" action="¿"/>
+            <key code="43" action="W"/>
+            <key code="44" action="Z"/>
+            <key code="45" action="52"/>
+            <key code="46" action="50"/>
+            <key code="47" action="V"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="49" action="25"/>
+            <key code="50" action="&#x003E;"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <key code="66" output="*"/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
+            <key code="70" output="+"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="="/>
+            <key code="75" output="/"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="/"/>
+            <key code="78" output="-"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="102" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="104" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="108" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="110" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="112" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="2">
+            <key code="0" action="26"/>
+            <key code="1" action="62"/>
+            <key code="2" action="32"/>
+            <key code="3" action="36"/>
+            <key code="4" action="40"/>
+            <key code="5" action="38"/>
+            <key code="6" action="76"/>
+            <key code="7" action="72"/>
+            <key code="8" action="30"/>
+            <key code="9" action="68"/>
+            <key code="10" output="§"/>
+            <key code="11" action="28"/>
+            <key code="12" action="58"/>
+            <key code="13" action="70"/>
+            <key code="14" action="34"/>
+            <key code="15" action="60"/>
+            <key code="16" action="74"/>
+            <key code="17" action="64"/>
+            <key code="18" output="1"/>
+            <key code="19" action="79"/>
+            <key code="20" action="81"/>
+            <key code="21" output="4"/>
+            <key code="22" action="85"/>
+            <key code="23" action="83"/>
+            <key code="24" output="="/>
+            <key code="25" output="9"/>
+            <key code="26" action="86"/>
+            <key code="27" output="-"/>
+            <key code="28" action="88"/>
+            <key code="29" output="0"/>
+            <key code="30" output="]"/>
+            <key code="31" action="54"/>
+            <key code="32" action="66"/>
+            <key code="33" output="["/>
+            <key code="34" action="42"/>
+            <key code="35" action="56"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" action="48"/>
+            <key code="38" action="44"/>
+            <key code="39" action="90"/>
+            <key code="40" action="46"/>
+            <key code="41" output=";"/>
+            <key code="42" output="\"/>
+            <key code="43" output=","/>
+            <key code="44" output="/"/>
+            <key code="45" action="52"/>
+            <key code="46" action="50"/>
+            <key code="47" output="."/>
+            <key code="48" output="&#x0009;"/>
+            <key code="49" action="25"/>
+            <key code="50" output="`"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <key code="66" output="&#x001D;"/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="75" output="/"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="78" output="-"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="102" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="104" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="108" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="110" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="112" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="3">
+            <key code="0" action="Periodic Table 1"/>
+            <key code="1" action="Diacritic ˝"/>
+            <key code="2" action="Diacritic ˜"/>
+            <key code="3" action="Diacritic ˘ 1"/>
+            <key code="4" action="20"/>
+            <key code="5" action="I"/>
+            <key code="6" output="仐"/>
+            <key code="7" output="☑"/>
+            <key code="8" output="☐"/>
+            <key code="9" output="☒"/>
+            <key code="10" output="§"/>
+            <key code="11" output="þ"/>
+            <key code="12" action="Diacritic ˝ 1"/>
+            <key code="13" action="Diacritic ,"/>
+            <key code="14" action="Diacritic ."/>
+            <key code="15" action="Diacritic ˛"/>
+            <key code="16" output="∱"/>
+            <key code="17" output="¥"/>
+            <key code="18" action="¤"/>
+            <key code="19" action="€"/>
+            <key code="20" output="£"/>
+            <key code="21" action="¢"/>
+            <key code="22" output="月"/>
+            <key code="23" output="§"/>
+            <key code="24" output="="/>
+            <key code="25" action="ª"/>
+            <key code="26" output="¶"/>
+            <key code="27" output="+"/>
+            <key code="28" output="•"/>
+            <key code="29" output="º"/>
+            <key code="30" action="98"/>
+            <key code="31" action="94"/>
+            <key code="32" action="Diacritic ˘ 2"/>
+            <key code="33" action="99"/>
+            <key code="34" action="21"/>
+            <key code="35" action="Diacritic ˀ 1"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" action="14"/>
+            <key code="38" action="Diacritic ˀ"/>
+            <key code="39" action="92"/>
+            <key code="40" action="12"/>
+            <key code="41" action="Diacritic ` 1"/>
+            <key code="42" action="]"/>
+            <key code="43" action="≤"/>
+            <key code="44" output="π"/>
+            <key code="45" output="ß"/>
+            <key code="46" action="8"/>
+            <key code="47" action="Diacritic ˆ 1"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
+            <key code="50" output="["/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <key code="66" output="&#x001D;"/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="75" output="/"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="78" output="-"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="102" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="104" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="108" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="110" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="112" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="4">
+            <key code="0" output="̋"/>
+            <key code="1" output="̀"/>
+            <key code="2" output="Ð"/>
+            <key code="3" action="22"/>
+            <key code="4" output="̱"/>
+            <key code="5" output="İ"/>
+            <key code="6" output="̉"/>
+            <key code="7" output="̣"/>
+            <key code="8" output="̧"/>
+            <key code="9" output="̌"/>
+            <key code="10" output="±"/>
+            <key code="11" output="̆"/>
+            <key code="12" output="Å"/>
+            <key code="13" output="̇"/>
+            <key code="14" output="́"/>
+            <key code="15" output="‰"/>
+            <key code="16" action="23"/>
+            <key code="17" output="Þ"/>
+            <key code="18" output="⁄"/>
+            <key code="19" output="€"/>
+            <key code="20" output="‹"/>
+            <key code="21" output="›"/>
+            <key code="22" output="日"/>
+            <key code="23" output="†"/>
+            <key code="24" output="≠"/>
+            <key code="25" output="·"/>
+            <key code="26" output="‡"/>
+            <key code="27" output="‽"/>
+            <key code="28" output="°"/>
+            <key code="29" output="‚"/>
+            <key code="30" action="97"/>
+            <key code="31" action="93"/>
+            <key code="32" output="̈"/>
+            <key code="33" action="Diacritic ‸ 1"/>
+            <key code="34" output="̛"/>
+            <key code="35" output="̦"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" output="̵"/>
+            <key code="38" output="̄"/>
+            <key code="39" action="91"/>
+            <key code="40" output="̊"/>
+            <key code="41" action="16"/>
+            <key code="42" output="}"/>
+            <key code="43" output="„"/>
+            <key code="44" output="¿"/>
+            <key code="45" output="̃"/>
+            <key code="46" output="̨"/>
+            <key code="47" action="17"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
+            <key code="50" output="{"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <key code="66" output="*"/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
+            <key code="70" output="+"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="="/>
+            <key code="75" output="/"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="/"/>
+            <key code="78" output="-"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="102" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="104" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="108" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="110" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="112" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="5">
+            <key code="0" action="7"/>
+            <key code="1" output="SS"/>
+            <key code="2" output="Ð"/>
+            <key code="3" output="ƒ"/>
+            <key code="4" action="20"/>
+            <key code="5" output="©"/>
+            <key code="6" action="18"/>
+            <key code="7" action="15"/>
+            <key code="8" action="5"/>
+            <key code="9" action="9"/>
+            <key code="10" output="§"/>
+            <key code="11" action="6"/>
+            <key code="12" output="Œ"/>
+            <key code="13" action="10"/>
+            <key code="14" action="0"/>
+            <key code="15" output="®"/>
+            <key code="16" output="¥"/>
+            <key code="17" output="Þ"/>
+            <key code="18" output="¡"/>
+            <key code="19" output="™"/>
+            <key code="20" output="£"/>
+            <key code="21" output="¢"/>
+            <key code="22" action="2"/>
+            <key code="23" output="§"/>
+            <key code="24" output="≠"/>
+            <key code="25" output="ª"/>
+            <key code="26" output="¶"/>
+            <key code="27" output="–"/>
+            <key code="28" output="•"/>
+            <key code="29" output="º"/>
+            <key code="30" action="98"/>
+            <key code="31" action="93"/>
+            <key code="32" action="3"/>
+            <key code="33" action="99"/>
+            <key code="34" action="21"/>
+            <key code="35" action="13"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" action="14"/>
+            <key code="38" action="11"/>
+            <key code="39" action="91"/>
+            <key code="40" action="12"/>
+            <key code="41" output="…"/>
+            <key code="42" output="«"/>
+            <key code="43" output="≤"/>
+            <key code="44" output="÷"/>
+            <key code="45" action="4"/>
+            <key code="46" action="8"/>
+            <key code="47" output="≥"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="49" output=" "/>
+            <key code="50" action="1"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <key code="66" output="&#x001D;"/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="75" output="/"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="78" output="-"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="102" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="104" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="108" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="110" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="112" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="6">
+            <key code="0" output="ℝ"/>
+            <key code="1" output="α"/>
+            <key code="2" output="⇌"/>
+            <key code="3" output="β"/>
+            <key code="4" output="∆"/>
+            <key code="5" output="γ"/>
+            <key code="6" output="人"/>
+            <key code="7" output="元"/>
+            <key code="8" output="提高"/>
+            <key code="9" output="不是你"/>
+            <key code="10" output="0"/>
+            <key code="11" output="≈"/>
+            <key code="12" output="æ"/>
+            <key code="13" output="œ"/>
+            <key code="14" output="ɛ"/>
+            <key code="15" output="π"/>
+            <key code="16" output="ƒ"/>
+            <key code="17" output="&#x0014;"/>
+            <key code="18" output="1"/>
+            <key code="19" output="2"/>
+            <key code="20" output="3"/>
+            <key code="21" output="4"/>
+            <key code="22" output="6"/>
+            <key code="23" output="5"/>
+            <key code="24" output="="/>
+            <key code="25" output="9"/>
+            <key code="26" output="7"/>
+            <key code="27" output="&#x001F;"/>
+            <key code="28" output="∞"/>
+            <key code="29" output="Ø"/>
+            <key code="30" output=""/>
+            <key code="31" output="∫HeNeArKrXeRnUuo"/>
+            <key code="32" output="&#x0015;"/>
+            <key code="33" output=""/>
+            <key code="34" output=""/>
+            <key code="35" output=""/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" output=""/>
+            <key code="38" output="♥"/>
+            <key code="39" action="∱TREAM"/>
+            <key code="40" output="⽊"/>
+            <key code="41" action="∱TEAM"/>
+            <key code="42" output="&#x001C;"/>
+            <key code="43" output="⩙"/>
+            <key code="44" output="Ω"/>
+            <key code="45" output="Ᏼ"/>
+            <key code="46" output="µ"/>
+            <key code="47" output="▟"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="49" action="25"/>
+            <key code="50" output="`"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="52" output="&#x0003;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output="."/>
+            <key code="66" output="&#x001D;"/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="75" output="/"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="78" output="-"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="102" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="104" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="108" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="110" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="112" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="7">
+            <key code="0" output="±"/>
+            <key code="1" output="√"/>
+            <key code="2" output="∛"/>
+            <key code="3" output="∜"/>
+            <key code="6" output="1"/>
+            <key code="7" output="2"/>
+            <key code="8" output="3"/>
+            <key code="9" output="4"/>
+            <key code="11" output="5"/>
+            <key code="12" output="₁"/>
+            <key code="13" output="₂"/>
+            <key code="14" output="₃"/>
+            <key code="15" output="₄"/>
+            <key code="16" output="₆"/>
+            <key code="17" output="₅"/>
+            <key code="18" output="¹"/>
+            <key code="19" output="²"/>
+            <key code="20" output="³"/>
+            <key code="21" output="⁴"/>
+            <key code="22" output="⁶"/>
+            <key code="23" output="⁵"/>
+            <key code="24" output="⁺"/>
+            <key code="25" output="⁹"/>
+            <key code="26" output="⁷"/>
+            <key code="27" output="⁻"/>
+            <key code="28" output="⁸"/>
+            <key code="29" output="⁰"/>
+            <key code="30" output="≥"/>
+            <key code="31" output="₉"/>
+            <key code="32" output="₇"/>
+            <key code="33" output="≤"/>
+            <key code="34" output="₈"/>
+            <key code="35" output="₀"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" output="‽"/>
+            <key code="38" action="☾∀LM⁴ Herstory (∾)"/>
+            <key code="39" output=""/>
+            <key code="40" output="⸘"/>
+            <key code="41" action="Mathnautic Symbols Expansion Set (∑)"/>
+            <key code="42" action="♬ Musical Composition ♬"/>
+            <key code="43" output="8"/>
+            <key code="44" output="0"/>
+            <key code="45" output="6"/>
+            <key code="46" output="7"/>
+            <key code="47" output="9"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="50" output="ⁱ"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="66" output="&#x001D;"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+        <keyMap index="8">
+            <key code="0" action="∀⚕☥"/>
+            <key code="1" output="☦"/>
+            <key code="2" action="Emoji"/>
+            <key code="3" output="ॐ"/>
+            <key code="4" action="Braille Alphabet"/>
+            <key code="5" output="☫"/>
+            <key code="8" output="✡"/>
+            <key code="9" output="˚"/>
+            <key code="12" output="Æ"/>
+            <key code="13" output="Œ"/>
+            <key code="15" output="☮&#x1F54A;"/>
+            <key code="16" output="Ƒ"/>
+            <key code="17" output="☯"/>
+            <key code="30" output="∑"/>
+            <key code="33" output=""/>
+            <key code="34" action="☾☤✝"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="38" output="☭"/>
+            <key code="40" output="&#x1F300;"/>
+            <key code="41" output="☪"/>
+            <key code="42" output="‽"/>
+            <key code="43" output=""/>
+            <key code="45" output="β"/>
+            <key code="47" output="࿕"/>
+            <key code="48" output="&#x0009;"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="66" output="&#x001D;"/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
+    </keyMapSet>
+    <actions>
+        <action id="!">
+            <when state="none" output="!"/>
+            <when state="Braille Alphabet" output="⠰"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≑"/>
+        </action>
+        <action id="$">
+            <when state="none" output="$"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≅"/>
+        </action>
+        <action id="&#x003C;">
+            <when state="none" output="&#x003C;"/>
+            <when state="Braille Alphabet" output="⠼"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="✪"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="∾"/>
+        </action>
+        <action id="&#x003E;">
+            <when state="none" output="&#x003E;"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≌"/>
+        </action>
+        <action id="/">
+            <when state="none" output="ç"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≞"/>
+        </action>
+        <action id="0">
+            <when state="none" next="Diacritic ´"/>
+        </action>
+        <action id="0 1">
+            <when state="none" output="0"/>
+            <when state="Braille Alphabet" output="⠚"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="Ø"/>
+            <when state="∱TEAM Symbolfications" output="Δ⇌"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≐"/>
+        </action>
+        <action id="1">
+            <when state="none" next="Diacritic `"/>
+        </action>
+        <action id="1 1">
+            <when state="none" output="1"/>
+            <when state="Braille Alphabet" output="⠁"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="≁"/>
+            <when state="∱TEAM Symbolfications" output="∲"/>
+            <when state="∱TREAM" output="⇫"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≁"/>
+        </action>
+        <action id="2">
+            <when state="none" next="Diacritic ˆ"/>
+        </action>
+        <action id="3">
+            <when state="none" next="Diacritic ¨"/>
+        </action>
+        <action id="4">
+            <when state="none" next="Diacritic ˜"/>
+        </action>
+        <action id="4 1">
+            <when state="none" output="4"/>
+            <when state="Braille Alphabet" output="⠙"/>
+            <when state="Currency Symbols (¤)" output="₵$"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="≜"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="℀"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≆"/>
+        </action>
+        <action id="5">
+            <when state="none" next="Diacritic ˘"/>
+        </action>
+        <action id="6">
+            <when state="none" next="Diacritic ˘"/>
+        </action>
+        <action id="7">
+            <when state="none" next="Diacritic ¯"/>
+        </action>
+        <action id="8">
+            <when state="none" next="Diacritic ˛"/>
+        </action>
+        <action id="9">
+            <when state="none" next="Diacritic ˘"/>
+        </action>
+        <action id="9 1">
+            <when state="none" output="9"/>
+            <when state="Braille Alphabet" output="⠊"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≏"/>
+        </action>
+        <action id="10">
+            <when state="none" next="Diacritic ˙"/>
+        </action>
+        <action id="11">
+            <when state="none" next="Diacritic ˝"/>
+        </action>
+        <action id="12">
+            <when state="none" next="Diacritic ´"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≲"/>
+        </action>
+        <action id="13">
+            <when state="none" next="Diacritic ,"/>
+        </action>
+        <action id="14">
+            <when state="none" next="Diacritic ˇ"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≵"/>
+        </action>
+        <action id="15">
+            <when state="none" next="Diacritic ´"/>
+        </action>
+        <action id="16">
+            <when state="none" next="Diacritic №"/>
+        </action>
+        <action id="17">
+            <when state="none" next="Diacritic ʔ"/>
+        </action>
+        <action id="18">
+            <when state="none" next="-"/>
+        </action>
+        <action id="19">
+            <when state="none" next="Diacritic ‸"/>
+        </action>
+        <action id="20">
+            <when state="none" next="-"/>
+        </action>
+        <action id="21">
+            <when state="none" next="Diacritic ˙"/>
+        </action>
+        <action id="22">
+            <when state="none" next="Diacritic  ̰"/>
+        </action>
+        <action id="23">
+            <when state="none" next="Diacritic &#x0022;"/>
+        </action>
+        <action id="24">
+            <when state="none" next="Diacritic  ̑"/>
+        </action>
+        <action id="25">
+            <when state="none" output=" "/>
+            <when state="-" output="-"/>
+            <when state="Diacritic &#x0022;" output=" ̏"/>
+            <when state="Diacritic ," output=","/>
+            <when state="Diacritic ." output="."/>
+            <when state="Diacritic `" output="`"/>
+            <when state="Diacritic  ̑" output=" ̑"/>
+            <when state="Diacritic  ̰" output=" ̰"/>
+            <when state="Diacritic ¨" output="¨"/>
+            <when state="Diacritic ¯" output="¯"/>
+            <when state="Diacritic ´" output="´"/>
+            <when state="Diacritic ¸" output="¸"/>
+            <when state="Diacritic ʔ" output="ʔ"/>
+            <when state="Diacritic ˀ" output="ˀ"/>
+            <when state="Diacritic ˆ" output="ˆ"/>
+            <when state="Diacritic ˇ" output="ˇ"/>
+            <when state="Diacritic ˍ" output="ˍ"/>
+            <when state="Diacritic ˘" output="˘"/>
+            <when state="Diacritic ˙" output="˙"/>
+            <when state="Diacritic ˚" output="˚"/>
+            <when state="Diacritic ˛" output="˛"/>
+            <when state="Diacritic ˜" output="˜"/>
+            <when state="Diacritic ˝" output="˝"/>
+            <when state="Diacritic ‸" output="‸"/>
+            <when state="Diacritic №" output="№"/>
+            <when state="ʼ" output="ʼ"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≭"/>
+        </action>
+        <action id="26">
+            <when state="none" output="A"/>
+            <when state="Diacritic &#x0022;" output="Ȁ"/>
+            <when state="Diacritic ." output="Ạ"/>
+            <when state="Diacritic `" output="À"/>
+            <when state="Diacritic  ̑" output="Ȃ"/>
+            <when state="Diacritic ¨" output="Ä"/>
+            <when state="Diacritic ¯" output="Ā"/>
+            <when state="Diacritic ´" output="Á"/>
+            <when state="Diacritic ˀ" output="Ả"/>
+            <when state="Diacritic ˆ" output="Â"/>
+            <when state="Diacritic ˇ" output="Ǎ"/>
+            <when state="Diacritic ˘" output="Ă"/>
+            <when state="Diacritic ˙" output="Ȧ"/>
+            <when state="Diacritic ˚" output="Å"/>
+            <when state="Diacritic ˛" output="Ą"/>
+            <when state="Diacritic ˜" output="Ã"/>
+            <when state="Diacritic №" output="Ə"/>
+            <when state="Latin Superscripts and Subscripts" output="ª"/>
+        </action>
+        <action id="27">
+            <when state="none" output="a"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="Al"/>
+            <when state="Braille Alphabet" output="⠁"/>
+            <when state="B⁵" output="Ba⁵⁶"/>
+            <when state="Copy | Editors Play ∱pace (Commas Galore)" output="“"/>
+            <when state="Currency Symbols (¤)" output="؋₳"/>
+            <when state="C⁶" output="Ca²⁰"/>
+            <when state="Diacritic &#x0022;" output="ȁ"/>
+            <when state="Diacritic ." output="ạ"/>
+            <when state="Diacritic `" output="à"/>
+            <when state="Diacritic  ̑" output="ȃ"/>
+            <when state="Diacritic ¨" output="ä"/>
+            <when state="Diacritic ¯" output="ā"/>
+            <when state="Diacritic ´" output="á"/>
+            <when state="Diacritic ˀ" output="ả"/>
+            <when state="Diacritic ˆ" output="â"/>
+            <when state="Diacritic ˇ" output="ǎ"/>
+            <when state="Diacritic ˘" output="ă"/>
+            <when state="Diacritic ˙" output="ȧ"/>
+            <when state="Diacritic ˚" output="å"/>
+            <when state="Diacritic ˛" output="ą"/>
+            <when state="Diacritic ˜" output="ã"/>
+            <when state="Diacritic №" output="ə"/>
+            <when state="Ga" output="Ga³¹"/>
+            <when state="Latin Superscripts and Subscripts" output="ₐ"/>
+            <when state="Li³" output="La⁵⁷"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="∧"/>
+            <when state="N⁷" output="Na¹¹"/>
+            <when state="P" output="Pa⁹¹"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓐ"/>
+            <when state="Religious | Calmunity Symbols (A Superimposition Range)" output="∀"/>
+            <when state="Religious | Calmunity Symbols (C Superimposition Range)" output="☤"/>
+            <when state="Rn⁸⁶" output="Ra⁸⁸"/>
+            <when state="Ti²²" output="Ta⁷³"/>
+            <when state="∱TEAM Symbolfications" output="∫"/>
+            <when state="∱TREAM" output="∀"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≢"/>
+        </action>
+        <action id="28">
+            <when state="none" output="X"/>
+            <when state="Diacritic ¨" output="Ẍ"/>
+            <when state="Diacritic ˇ" output="Ǯ"/>
+            <when state="Diacritic ˙" output="Ẋ"/>
+            <when state="Latin Superscripts and Subscripts" output="ˣ"/>
+        </action>
+        <action id="29">
+            <when state="none" output="x"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" output="Xe⁵⁴"/>
+            <when state="Braille Alphabet" output="⠭"/>
+            <when state="Diacritic ¨" output="ẍ"/>
+            <when state="Diacritic ˇ" output="ǯ"/>
+            <when state="Diacritic ˙" output="ẋ"/>
+            <when state="Latin Superscripts and Subscripts" output="ₓ"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="⨶"/>
+        </action>
+        <action id="30">
+            <when state="none" output="J"/>
+            <when state="Diacritic ˆ" output="Ĵ"/>
+            <when state="Diacritic ˇ" output="J̌"/>
+            <when state="Latin Superscripts and Subscripts" output="ʲ"/>
+        </action>
+        <action id="31">
+            <when state="none" output="j"/>
+            <when state="Braille Alphabet" output="⠚"/>
+            <when state="Copy | Editors Play ∱pace (Commas Galore)" output="»"/>
+            <when state="Diacritic ˆ" output="ĵ"/>
+            <when state="Diacritic ˇ" output="ǰ"/>
+            <when state="Emoji" output="&#x1F602;"/>
+            <when state="Latin Superscripts and Subscripts" output="ⱼ"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓙ"/>
+        </action>
+        <action id="32">
+            <when state="none" output="E"/>
+            <when state="Diacritic &#x0022;" output="Ȅ"/>
+            <when state="Diacritic ." output="Ẹ"/>
+            <when state="Diacritic `" output="È"/>
+            <when state="Diacritic  ̑" output="Ȇ"/>
+            <when state="Diacritic  ̰" output="Ḛ"/>
+            <when state="Diacritic ¨" output="Ë"/>
+            <when state="Diacritic ¯" output="Ē"/>
+            <when state="Diacritic ´" output="É"/>
+            <when state="Diacritic ¸" output="Ȩ"/>
+            <when state="Diacritic ˀ" output="Ẻ"/>
+            <when state="Diacritic ˆ" output="Ê"/>
+            <when state="Diacritic ˇ" output="Ě"/>
+            <when state="Diacritic ˘" output="Ĕ"/>
+            <when state="Diacritic ˙" output="Ė"/>
+            <when state="Diacritic ˚" output="E̊"/>
+            <when state="Diacritic ˛" output="Ę"/>
+            <when state="Diacritic ˜" output="Ẽ"/>
+            <when state="Diacritic ‸" output="Ḙ"/>
+            <when state="Diacritic №" output="Ǝ"/>
+            <when state="Latin Superscripts and Subscripts" output="ᵉ"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="∉"/>
+        </action>
+        <action id="33">
+            <when state="none" output="e"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="Eu⁶³"/>
+            <when state="Braille Alphabet" output="⠑"/>
+            <when state="B⁵" output="Be⁴"/>
+            <when state="Copy | Editors Play ∱pace (Commas Galore)" output="’"/>
+            <when state="Currency Symbols (¤)" output="€"/>
+            <when state="C⁶" output="Ce⁵⁸"/>
+            <when state="Diacritic &#x0022;" output="ȅ"/>
+            <when state="Diacritic ." output="ẹ"/>
+            <when state="Diacritic `" output="è"/>
+            <when state="Diacritic  ̑" output="ȇ"/>
+            <when state="Diacritic  ̰" output="ḛ"/>
+            <when state="Diacritic ¨" output="ë"/>
+            <when state="Diacritic ¯" output="ē"/>
+            <when state="Diacritic ´" output="é"/>
+            <when state="Diacritic ¸" output="ȩ"/>
+            <when state="Diacritic ˀ" output="ẻ"/>
+            <when state="Diacritic ˆ" output="ê"/>
+            <when state="Diacritic ˇ" output="ě"/>
+            <when state="Diacritic ˘" output="ĕ"/>
+            <when state="Diacritic ˙" output="ė"/>
+            <when state="Diacritic ˚" output="e̊"/>
+            <when state="Diacritic ˛" output="ę"/>
+            <when state="Diacritic ˜" output="ẽ"/>
+            <when state="Diacritic ‸" output="ḙ"/>
+            <when state="Diacritic №" output="ǝ"/>
+            <when state="F⁹" output="Fe²⁶"/>
+            <when state="Ga" output="Ge³²"/>
+            <when state="H" output="He²"/>
+            <when state="Latin Superscripts and Subscripts" output="ₑ"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="∈"/>
+            <when state="N⁷" output="Ne¹⁰"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓔ"/>
+            <when state="Religious | Calmunity Symbols (A Superimposition Range)" output="⚕"/>
+            <when state="Religious | Calmunity Symbols (C Superimposition Range)" output="☑"/>
+            <when state="Rn⁸⁶" output="Re⁷⁵"/>
+            <when state="S" output="Se³⁴"/>
+            <when state="Ti²²" output="Te⁵²"/>
+            <when state="∱TEAM Symbolfications" output="∭"/>
+            <when state="∱TREAM" output="∊"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≧"/>
+        </action>
+        <action id="34">
+            <when state="none" output=":"/>
+        </action>
+        <action id="35">
+            <when state="none" output="."/>
+            <when state="Braille Alphabet" output="⠲"/>
+            <when state="∱TEAM Symbolfications" output="∰"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≕"/>
+        </action>
+        <action id="36">
+            <when state="none" output="U"/>
+            <when state="Diacritic &#x0022;" output="Ȕ"/>
+            <when state="Diacritic ." output="Ụ"/>
+            <when state="Diacritic `" output="Ù"/>
+            <when state="Diacritic  ̑" output="Ȗ"/>
+            <when state="Diacritic  ̰" output="Ṵ"/>
+            <when state="Diacritic ¨" output="Ü"/>
+            <when state="Diacritic ¯" output="Ū"/>
+            <when state="Diacritic ´" output="Ú"/>
+            <when state="Diacritic ˀ" output="Ủ"/>
+            <when state="Diacritic ˆ" output="Û"/>
+            <when state="Diacritic ˇ" output="Ǔ"/>
+            <when state="Diacritic ˘" output="Ŭ"/>
+            <when state="Diacritic ˚" output="Ů"/>
+            <when state="Diacritic ˛" output="Ų"/>
+            <when state="Diacritic ˜" output="Ũ"/>
+            <when state="Diacritic ˝" output="Ű"/>
+            <when state="Diacritic ‸" output="Ṷ"/>
+            <when state="Latin Superscripts and Subscripts" output="ᵘ"/>
+            <when state="ʼ" output="Ư"/>
+        </action>
+        <action id="37">
+            <when state="none" output="u"/>
+            <when state="-" output="ʉ"/>
+            <when state="Al" output="Au⁷⁹"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="U⁹²"/>
+            <when state="Braille Alphabet" output="⠥"/>
+            <when state="Copy | Editors Play ∱pace (Commas Galore)" output="”"/>
+            <when state="Currency Symbols (¤)" output="₴"/>
+            <when state="C⁶" output="Cu²⁹"/>
+            <when state="Diacritic &#x0022;" output="ȕ"/>
+            <when state="Diacritic ." output="ụ"/>
+            <when state="Diacritic `" output="ù"/>
+            <when state="Diacritic  ̑" output="ȗ"/>
+            <when state="Diacritic  ̰" output="ṵ"/>
+            <when state="Diacritic ¨" output="ü"/>
+            <when state="Diacritic ¯" output="ū"/>
+            <when state="Diacritic ´" output="ú"/>
+            <when state="Diacritic ˀ" output="ủ"/>
+            <when state="Diacritic ˆ" output="û"/>
+            <when state="Diacritic ˇ" output="ǔ"/>
+            <when state="Diacritic ˘" output="ŭ"/>
+            <when state="Diacritic ˚" output="ů"/>
+            <when state="Diacritic ˛" output="ų"/>
+            <when state="Diacritic ˜" output="ũ"/>
+            <when state="Diacritic ˝" output="ű"/>
+            <when state="Diacritic ‸" output="ṷ"/>
+            <when state="Eu⁶³" output="Eu⁶³"/>
+            <when state="Latin Superscripts and Subscripts" output="ᵤ"/>
+            <when state="Li³" output="Lu⁷¹"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="∪"/>
+            <when state="P" output="Pu⁹⁴"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓤ"/>
+            <when state="U⁹²" output="U⁹²"/>
+            <when state="ʼ" output="ư"/>
+            <when state="∱TEAM Symbolfications" output="⨍"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≩"/>
+        </action>
+        <action id="38">
+            <when state="none" output="I"/>
+            <when state="-" output="Ɨ"/>
+            <when state="Diacritic &#x0022;" output="Ȉ"/>
+            <when state="Diacritic ." output="Ị"/>
+            <when state="Diacritic `" output="Ì"/>
+            <when state="Diacritic  ̑" output="Ȋ"/>
+            <when state="Diacritic  ̰" output="Ḭ"/>
+            <when state="Diacritic ¨" output="Ï"/>
+            <when state="Diacritic ¯" output="Ī"/>
+            <when state="Diacritic ´" output="Í"/>
+            <when state="Diacritic ʔ" output="Ɩ"/>
+            <when state="Diacritic ˀ" output="Ỉ"/>
+            <when state="Diacritic ˆ" output="Î"/>
+            <when state="Diacritic ˇ" output="Ǐ"/>
+            <when state="Diacritic ˘" output="Ĭ"/>
+            <when state="Diacritic ˙" output="İ"/>
+            <when state="Diacritic ˛" output="Į"/>
+            <when state="Diacritic ˜" output="Ĩ"/>
+            <when state="Latin Superscripts and Subscripts" output="ⁱ"/>
+        </action>
+        <action id="39">
+            <when state="none" output="i"/>
+            <when state="-" output="ɨ"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="I⁵³"/>
+            <when state="Braille Alphabet" output="⠊"/>
+            <when state="Currency Symbols (¤)" output="﷼"/>
+            <when state="Diacritic &#x0022;" output="ȉ"/>
+            <when state="Diacritic ." output="ị"/>
+            <when state="Diacritic `" output="ì"/>
+            <when state="Diacritic  ̑" output="ȋ"/>
+            <when state="Diacritic  ̰" output="ḭ"/>
+            <when state="Diacritic ¨" output="ï"/>
+            <when state="Diacritic ¯" output="ī"/>
+            <when state="Diacritic ´" output="í"/>
+            <when state="Diacritic ʔ" output="ɩ"/>
+            <when state="Diacritic ˀ" output="ỉ"/>
+            <when state="Diacritic ˆ" output="î"/>
+            <when state="Diacritic ˇ" output="ǐ"/>
+            <when state="Diacritic ˘" output="ĭ"/>
+            <when state="Diacritic ˙" output="ı"/>
+            <when state="Diacritic ˛" output="į"/>
+            <when state="Diacritic ˜" output="ĩ"/>
+            <when state="I⁵³" output="I⁵³"/>
+            <when state="Latin Superscripts and Subscripts" output="ᵢ"/>
+            <when state="Li³" output="Li³"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="∩"/>
+            <when state="N⁷" output="Ni²⁸"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓘ"/>
+            <when state="S" output="Si¹⁴"/>
+            <when state="Ti²²" output="Ti²²"/>
+            <when state="∱TEAM Symbolfications" output="⨏"/>
+            <when state="∱TREAM" output="‽"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≫"/>
+        </action>
+        <action id="40">
+            <when state="none" output="D"/>
+            <when state="-" output="Đ"/>
+            <when state="Diacritic ." output="Ḍ"/>
+            <when state="Diacritic ¸" output="Ḑ"/>
+            <when state="Diacritic ʔ" output="ƊƉ"/>
+            <when state="Diacritic ˇ" output="Ď"/>
+            <when state="Diacritic ˍ" output="Ḏ"/>
+            <when state="Diacritic ˙" output="Ḋ"/>
+            <when state="Diacritic ‸" output="Ḓ"/>
+            <when state="Latin Superscripts and Subscripts" output="ᵈ"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="≢"/>
+        </action>
+        <action id="41">
+            <when state="none" output="d"/>
+            <when state="-" output="đ"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="Db"/>
+            <when state="Braille Alphabet" output="⠙"/>
+            <when state="Currency Symbols (¤)" output="ден"/>
+            <when state="C⁶" output="Cd⁴⁸"/>
+            <when state="Diacritic ." output="ḍ"/>
+            <when state="Diacritic ¸" output="ḑ"/>
+            <when state="Diacritic ʔ" output="ɖɗ"/>
+            <when state="Diacritic ˇ" output="ď"/>
+            <when state="Diacritic ˍ" output="ḏ"/>
+            <when state="Diacritic ˙" output="ḋ"/>
+            <when state="Diacritic ‸" output="ḓ"/>
+            <when state="Ga" output="Gd⁶⁴"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="≡"/>
+            <when state="Mg" output="Md¹⁰¹"/>
+            <when state="N⁷" output="Nd⁶⁰"/>
+            <when state="P" output="Pd⁴⁶"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓓ"/>
+            <when state="∱TREAM" output="⇋"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≬"/>
+        </action>
+        <action id="42">
+            <when state="none" output="C"/>
+            <when state="Diacritic ´" output="Ć"/>
+            <when state="Diacritic ¸" output="Ç"/>
+            <when state="Diacritic ʔ" output="Ƈ"/>
+            <when state="Diacritic ˆ" output="Ĉ"/>
+            <when state="Diacritic ˇ" output="Č"/>
+            <when state="Diacritic ˙" output="Ċ"/>
+            <when state="Diacritic №" output="Ɔ"/>
+            <when state="Latin Superscripts and Subscripts" output="ᶜ"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="∌"/>
+        </action>
+        <action id="43">
+            <when state="none" output="c"/>
+            <when state="Al" output="Ac⁸⁹"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="C⁶"/>
+            <when state="Braille Alphabet" output="⠉"/>
+            <when state="B⁵" output="Bi⁸³"/>
+            <when state="Currency Symbols (¤)" output="₢"/>
+            <when state="C⁶" output="C⁶"/>
+            <when state="Diacritic ´" output="ć"/>
+            <when state="Diacritic ¸" output="ç"/>
+            <when state="Diacritic ʔ" output="ƈ"/>
+            <when state="Diacritic ˆ" output="ĉ"/>
+            <when state="Diacritic ˇ" output="č"/>
+            <when state="Diacritic ˙" output="ċ"/>
+            <when state="Diacritic №" output="ɔ"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="∋"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="©"/>
+            <when state="Religious | Calmunity Symbols (C Superimposition Range)" output="☾"/>
+            <when state="S" output="Sc²¹"/>
+            <when state="∱TREAM" output="☾"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≛"/>
+            <when state="♬ Musical Composition ♬" output="&#x1D121;"/>
+        </action>
+        <action id="44">
+            <when state="none" output="H"/>
+            <when state="-" output="Ħ"/>
+            <when state="Diacritic ." output="Ḥ"/>
+            <when state="Diacritic ¨" output="Ḧ"/>
+            <when state="Diacritic ¸" output="Ḩ"/>
+            <when state="Diacritic ˆ" output="Ĥ"/>
+            <when state="Diacritic ˇ" output="Ȟ"/>
+            <when state="Diacritic ˍ" output="H̱"/>
+            <when state="Diacritic ˘" output="Ḫ"/>
+            <when state="Diacritic ˙" output="Ḣ"/>
+            <when state="Diacritic №" output="Ƕ"/>
+            <when state="Latin Superscripts and Subscripts" output="ʰ"/>
+        </action>
+        <action id="45">
+            <when state="none" output="h"/>
+            <when state="-" output="ħ"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="H"/>
+            <when state="Braille Alphabet" output="⠓"/>
+            <when state="B⁵" output="Bh¹⁰⁷"/>
+            <when state="Currency Symbols (¤)" output="₴"/>
+            <when state="Diacritic ." output="ḥ"/>
+            <when state="Diacritic ¨" output="ḧ"/>
+            <when state="Diacritic ¸" output="ḩ"/>
+            <when state="Diacritic ʔ" output="ɦ"/>
+            <when state="Diacritic ˆ" output="ĥ"/>
+            <when state="Diacritic ˇ" output="ȟ"/>
+            <when state="Diacritic ˍ" output="ẖ"/>
+            <when state="Diacritic ˘" output="ḫ"/>
+            <when state="Diacritic ˙" output="ḣ"/>
+            <when state="Diacritic №" output="ƕ"/>
+            <when state="H" output="H¹"/>
+            <when state="Latin Superscripts and Subscripts" output="ₕ"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="䷀"/>
+            <when state="Rn⁸⁶" output="Rh⁴⁵"/>
+            <when state="Ti²²" output="Th⁹⁰"/>
+            <when state="∱TREAM" output="搀¬☣"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≮"/>
+        </action>
+        <action id="46">
+            <when state="none" output="T"/>
+            <when state="-" output="Ŧ"/>
+            <when state="Diacritic ," output="Ț"/>
+            <when state="Diacritic ." output="Ṭ"/>
+            <when state="Diacritic ¨" output="T̈"/>
+            <when state="Diacritic ¸" output="Ţ"/>
+            <when state="Diacritic ʔ" output="ƮƬ"/>
+            <when state="Diacritic ˇ" output="Ť"/>
+            <when state="Diacritic ˍ" output="Ṯ"/>
+            <when state="Diacritic ˙" output="Ṫ"/>
+            <when state="Diacritic ‸" output="Ṱ"/>
+            <when state="Latin Superscripts and Subscripts" output="ᵗ"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="∵"/>
+        </action>
+        <action id="47">
+            <when state="none" output="t"/>
+            <when state="-" output="ŧ"/>
+            <when state="Al" output="At⁸⁵"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="Ti²²"/>
+            <when state="Braille Alphabet" output="⠞"/>
+            <when state="Currency Symbols (¤)" output="₮"/>
+            <when state="Diacritic ," output="ț"/>
+            <when state="Diacritic ." output="ṭ"/>
+            <when state="Diacritic ¨" output="ẗ"/>
+            <when state="Diacritic ¸" output="ţ"/>
+            <when state="Diacritic ʔ" output="ʈƭ"/>
+            <when state="Diacritic ˇ" output="ť"/>
+            <when state="Diacritic ˍ" output="ṯ"/>
+            <when state="Diacritic ˙" output="ṫ"/>
+            <when state="Diacritic ‸" output="ṱ"/>
+            <when state="Diacritic №" output="ŋ"/>
+            <when state="Latin Superscripts and Subscripts" output="ₜ"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="∴"/>
+            <when state="Mg" output="Mt¹⁰⁹"/>
+            <when state="P" output="Pt⁷⁸"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="™"/>
+            <when state="U⁹²" output="Uut¹¹³"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≳"/>
+        </action>
+        <action id="48">
+            <when state="none" output="N"/>
+            <when state="Diacritic ." output="Ṇ"/>
+            <when state="Diacritic `" output="Ǹ"/>
+            <when state="Diacritic ´" output="Ń"/>
+            <when state="Diacritic ¸" output="Ņ"/>
+            <when state="Diacritic ʔ" output="Ɲ"/>
+            <when state="Diacritic ˆ" output="N̂"/>
+            <when state="Diacritic ˇ" output="Ň"/>
+            <when state="Diacritic ˍ" output="Ṉ"/>
+            <when state="Diacritic ˙" output="Ṅ"/>
+            <when state="Diacritic ˜" output="Ñ"/>
+            <when state="Diacritic ‸" output="Ṋ"/>
+            <when state="Diacritic №" output="Ƞ"/>
+            <when state="Latin Superscripts and Subscripts" output="ⁿ"/>
+        </action>
+        <action id="49">
+            <when state="none" output="n"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="N⁷"/>
+            <when state="Braille Alphabet" output="⠝"/>
+            <when state="Currency Symbols (¤)" output="₪₦"/>
+            <when state="C⁶" output="Cn¹¹²"/>
+            <when state="Diacritic ." output="ṇ"/>
+            <when state="Diacritic `" output="ǹ"/>
+            <when state="Diacritic ´" output="ń"/>
+            <when state="Diacritic ¸" output="ņ"/>
+            <when state="Diacritic ʔ" output="ɲ"/>
+            <when state="Diacritic ˆ" output="n̂"/>
+            <when state="Diacritic ˇ" output="ň"/>
+            <when state="Diacritic ˍ" output="ṉ"/>
+            <when state="Diacritic ˙" output="ṅ"/>
+            <when state="Diacritic ˜" output="ñ"/>
+            <when state="Diacritic ‸" output="ṋ"/>
+            <when state="Diacritic №" output="ƞ"/>
+            <when state="I⁵³" output="In⁴⁹"/>
+            <when state="Latin Superscripts and Subscripts" output="ₙ"/>
+            <when state="Mg" output="Mn²⁵"/>
+            <when state="N⁷" output="N⁷"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓝ"/>
+            <when state="Religious | Calmunity Symbols (A Superimposition Range)" output="☥"/>
+            <when state="Rn⁸⁶" output="Rn⁸⁶"/>
+            <when state="S" output="Sn⁵⁰"/>
+            <when state="Zn³⁰" output="Zn³⁰"/>
+            <when state="∱TREAM" output="♮"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≴"/>
+            <when state="♬ Musical Composition ♬" output="&#x1F3B6;"/>
+        </action>
+        <action id="50">
+            <when state="none" output="M"/>
+            <when state="Diacritic ." output="Ṃ"/>
+            <when state="Diacritic ´" output="Ḿ"/>
+            <when state="Diacritic ˆ" output="M̂"/>
+            <when state="Diacritic ˙" output="Ṁ"/>
+            <when state="Diacritic №" output="Ɯ"/>
+            <when state="Latin Superscripts and Subscripts" output="ᵐ"/>
+        </action>
+        <action id="51">
+            <when state="none" output="m"/>
+            <when state="Al" output="Am⁹⁵"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="Mg"/>
+            <when state="Braille Alphabet" output="⠍"/>
+            <when state="C⁶" output="Cm⁹⁶"/>
+            <when state="Diacritic ." output="ṃ"/>
+            <when state="Diacritic ´" output="ḿ"/>
+            <when state="Diacritic ˆ" output="m̂"/>
+            <when state="Diacritic ˙" output="ṁ"/>
+            <when state="Diacritic №" output="ɯ"/>
+            <when state="F⁹" output="Fm¹⁰⁰"/>
+            <when state="Latin Superscripts and Subscripts" output="ₘ"/>
+            <when state="P" output="Pm⁶¹"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓜ"/>
+            <when state="S" output="Sm⁶²"/>
+            <when state="Ti²²" output="Tm⁶⁹"/>
+            <when state="∱TREAM" output="☤"/>
+        </action>
+        <action id="52">
+            <when state="none" output="B"/>
+            <when state="Diacritic ." output="Ḅ"/>
+            <when state="Diacritic ʔ" output="Ɓ"/>
+            <when state="Diacritic ˍ" output="Ḇ"/>
+            <when state="Diacritic ˙" output="Ḃ"/>
+            <when state="Diacritic №" output="Ŋ"/>
+            <when state="Latin Superscripts and Subscripts" output="ᵇ"/>
+        </action>
+        <action id="53">
+            <when state="none" output="b"/>
+            <when state="-" output="ƀ"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="B⁵"/>
+            <when state="Braille Alphabet" output="⠃"/>
+            <when state="B⁵" output="B⁵"/>
+            <when state="Currency Symbols (¤)" output="฿"/>
+            <when state="Db" output="Db¹⁰⁵"/>
+            <when state="Diacritic ." output="ḅ"/>
+            <when state="Diacritic ʔ" output="ɓ"/>
+            <when state="Diacritic ˍ" output="ḇ"/>
+            <when state="Diacritic ˙" output="ḃ"/>
+            <when state="Diacritic №" output="ƅ"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓑ"/>
+            <when state="Rn⁸⁶" output="Rb³⁷"/>
+            <when state="S" output="Sb⁵¹"/>
+            <when state="Ti²²" output="Tb⁶⁵"/>
+            <when state="Y³⁹" output="Yb⁷⁰"/>
+        </action>
+        <action id="54">
+            <when state="none" output="R"/>
+            <when state="Diacritic &#x0022;" output="Ȑ"/>
+            <when state="Diacritic ." output="Ṛ"/>
+            <when state="Diacritic  ̑" output="Ȓ"/>
+            <when state="Diacritic ¯" output="Ṝ"/>
+            <when state="Diacritic ´" output="Ŕ"/>
+            <when state="Diacritic ¸" output="Ŗ"/>
+            <when state="Diacritic ˇ" output="Ř"/>
+            <when state="Diacritic ˍ" output="Ṟ"/>
+            <when state="Diacritic ˙" output="Ṙ"/>
+            <when state="Latin Superscripts and Subscripts" output="ʳ"/>
+        </action>
+        <action id="55">
+            <when state="none" output="r"/>
+            <when state="Al" output="Ar¹⁸"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="Rn⁸⁶"/>
+            <when state="Braille Alphabet" output="⠗"/>
+            <when state="B⁵" output="Br³⁵"/>
+            <when state="Currency Symbols (¤)" output="₹₨៛"/>
+            <when state="C⁶" output="Cr²⁴"/>
+            <when state="Diacritic &#x0022;" output="ȑ"/>
+            <when state="Diacritic ." output="ṛ"/>
+            <when state="Diacritic  ̑" output="ȓ"/>
+            <when state="Diacritic ¯" output="ṝ"/>
+            <when state="Diacritic ´" output="ŕ"/>
+            <when state="Diacritic ¸" output="ŗ"/>
+            <when state="Diacritic ˇ" output="ř"/>
+            <when state="Diacritic ˍ" output="ṟ"/>
+            <when state="Diacritic ˙" output="ṙ"/>
+            <when state="Diacritic №" output="ʀ"/>
+            <when state="Eu⁶³" output="Er⁶⁸"/>
+            <when state="F⁹" output="Fr⁸⁷"/>
+            <when state="I⁵³" output="Ir⁷⁷"/>
+            <when state="K" output="Kr³⁶"/>
+            <when state="Latin Superscripts and Subscripts" output="ᵣ"/>
+            <when state="Li³" output="Lr¹⁰³"/>
+            <when state="P" output="Pr⁵⁹"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="®"/>
+            <when state="Religious | Calmunity Symbols (C Superimposition Range)" output="✝"/>
+            <when state="S" output="Sr³⁸"/>
+            <when state="Zn³⁰" output="Zr⁴⁰"/>
+            <when state="∱TEAM Symbolfications" output="→"/>
+            <when state="∱TREAM" output="℞"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≜"/>
+            <when state="♬ Musical Composition ♬" output="&#x1D107;"/>
+        </action>
+        <action id="56">
+            <when state="none" output="L"/>
+            <when state="-" output="Ł"/>
+            <when state="Diacritic ." output="Ḷ"/>
+            <when state="Diacritic ¯" output="Ḹ"/>
+            <when state="Diacritic ´" output="Ĺ"/>
+            <when state="Diacritic ¸" output="Ļ"/>
+            <when state="Diacritic ˇ" output="Ľ"/>
+            <when state="Diacritic ˍ" output="Ḻ"/>
+            <when state="Diacritic ‸" output="Ḽ"/>
+            <when state="Latin Superscripts and Subscripts" output="ˡ"/>
+        </action>
+        <action id="57">
+            <when state="none" output="l"/>
+            <when state="-" output="ł"/>
+            <when state="Al" output="Al¹³"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="Li³"/>
+            <when state="Braille Alphabet" output="⠇"/>
+            <when state="Currency Symbols (¤)" output="лвLsLt"/>
+            <when state="C⁶" output="Cl¹⁷"/>
+            <when state="Diacritic ." output="ḷ"/>
+            <when state="Diacritic ¯" output="ḹ"/>
+            <when state="Diacritic ´" output="ĺ"/>
+            <when state="Diacritic ¸" output="ļ"/>
+            <when state="Diacritic ˇ" output="ľ"/>
+            <when state="Diacritic ˍ" output="ḻ"/>
+            <when state="Diacritic ‸" output="ḽ"/>
+            <when state="F⁹" output="Fl¹¹⁴"/>
+            <when state="Latin Superscripts and Subscripts" output="ₗ"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓛ"/>
+            <when state="Ti²²" output="Tl⁸¹"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≝"/>
+            <when state="♬ Musical Composition ♬" output="&#x1D106;"/>
+        </action>
+        <action id="58">
+            <when state="none" output="&#x0022;"/>
+        </action>
+        <action id="59">
+            <when state="none" output="&#x0027;"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="∂"/>
+            <when state="∱TEAM Symbolfications" output="∮"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≓"/>
+        </action>
+        <action id="60">
+            <when state="none" output="P"/>
+            <when state="Diacritic ´" output="Ṕ"/>
+            <when state="Diacritic ʔ" output="Ƥ"/>
+            <when state="Diacritic ˙" output="Ṗ"/>
+            <when state="Diacritic №" output="Ʀ"/>
+            <when state="Latin Superscripts and Subscripts" output="ᵖ"/>
+        </action>
+        <action id="61">
+            <when state="none" output="p"/>
+            <when state="Al" output="Ag⁴⁷"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="P"/>
+            <when state="Braille Alphabet" output="⠏"/>
+            <when state="Currency Symbols (¤)" output="₽₱ℙ"/>
+            <when state="Diacritic ´" output="ṕ"/>
+            <when state="Diacritic ʔ" output="ƥ"/>
+            <when state="Diacritic ˙" output="ṗ"/>
+            <when state="Diacritic №" output="ƿ"/>
+            <when state="Latin Superscripts and Subscripts" output="ₚ"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="∝"/>
+            <when state="N⁷" output="Np⁹³"/>
+            <when state="P" output="P¹⁵"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓟ"/>
+            <when state="U⁹²" output="Uup¹¹⁵"/>
+            <when state="∱TREAM" output="π"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≖"/>
+        </action>
+        <action id="62">
+            <when state="none" output="O"/>
+            <when state="-" output="Ɵ"/>
+            <when state="Diacritic &#x0022;" output="Ȍ"/>
+            <when state="Diacritic ." output="Ọ"/>
+            <when state="Diacritic `" output="Ò"/>
+            <when state="Diacritic  ̑" output="Ȏ"/>
+            <when state="Diacritic ¨" output="Ö"/>
+            <when state="Diacritic ¯" output="Ō"/>
+            <when state="Diacritic ´" output="Ó"/>
+            <when state="Diacritic ˀ" output="Ỏ"/>
+            <when state="Diacritic ˆ" output="Ô"/>
+            <when state="Diacritic ˇ" output="Ǒ"/>
+            <when state="Diacritic ˘" output="Ŏ"/>
+            <when state="Diacritic ˙" output="Ȯ"/>
+            <when state="Diacritic ˚" output="O̊"/>
+            <when state="Diacritic ˛" output="Ǫ"/>
+            <when state="Diacritic ˜" output="Õ"/>
+            <when state="Diacritic ˝" output="Ő"/>
+            <when state="Diacritic №" output="Ƣ"/>
+            <when state="Latin Superscripts and Subscripts" output="ᵒ"/>
+            <when state="ʼ" output="Ơ"/>
+        </action>
+        <action id="63">
+            <when state="none" output="o"/>
+            <when state="-" output="ɵ"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="O⁸"/>
+            <when state="Braille Alphabet" output="⠕"/>
+            <when state="Copy | Editors Play ∱pace (Commas Galore)" output="‘"/>
+            <when state="C⁶" output="Co²⁷"/>
+            <when state="Diacritic &#x0022;" output="ȍ"/>
+            <when state="Diacritic ." output="ọ"/>
+            <when state="Diacritic `" output="ò"/>
+            <when state="Diacritic  ̑" output="ȏ"/>
+            <when state="Diacritic ¨" output="ö"/>
+            <when state="Diacritic ¯" output="ō"/>
+            <when state="Diacritic ´" output="ó"/>
+            <when state="Diacritic ˀ" output="ỏ"/>
+            <when state="Diacritic ˆ" output="ô"/>
+            <when state="Diacritic ˇ" output="ǒ"/>
+            <when state="Diacritic ˘" output="ŏ"/>
+            <when state="Diacritic ˙" output="ȯ"/>
+            <when state="Diacritic ˚" output="o̊"/>
+            <when state="Diacritic ˛" output="ǫ"/>
+            <when state="Diacritic ˜" output="õ"/>
+            <when state="Diacritic ˝" output="ő"/>
+            <when state="Diacritic №" output="ƣ"/>
+            <when state="H" output="Ho⁶⁷"/>
+            <when state="Latin Superscripts and Subscripts" output="ₒ"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="∨"/>
+            <when state="Mg" output="Mo⁴²"/>
+            <when state="N⁷" output="No¹⁰²"/>
+            <when state="O⁸" output="O⁸"/>
+            <when state="P" output="Po⁸⁴"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓞ"/>
+            <when state="U⁹²" output="Uuo¹¹⁸"/>
+            <when state="ʼ" output="ơ"/>
+            <when state="∱TEAM Symbolfications" output="∬"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≥"/>
+        </action>
+        <action id="64">
+            <when state="none" output="y"/>
+            <when state="Diacritic ." output="ỵ"/>
+            <when state="Diacritic `" output="ỳ"/>
+            <when state="Diacritic ¨" output="ÿ"/>
+            <when state="Diacritic ¯" output="ȳ"/>
+            <when state="Diacritic ´" output="ý"/>
+            <when state="Diacritic ʔ" output="ƴ"/>
+            <when state="Diacritic ˀ" output="ỷ"/>
+            <when state="Diacritic ˆ" output="ŷ"/>
+            <when state="Diacritic ˙" output="ẏ"/>
+            <when state="Diacritic ˚" output="ẙ"/>
+            <when state="Diacritic ˜" output="ỹ"/>
+            <when state="Diacritic №" output="ɣ"/>
+            <when state="Latin Superscripts and Subscripts" output="ʸ"/>
+        </action>
+        <action id="65">
+            <when state="none" output="Y"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="Y³⁹"/>
+            <when state="Braille Alphabet" output="⠽"/>
+            <when state="Currency Symbols (¤)" output="¥元"/>
+            <when state="Db" output="Dy⁶⁶"/>
+            <when state="Diacritic ." output="Ỵ"/>
+            <when state="Diacritic `" output="Ỳ"/>
+            <when state="Diacritic ¨" output="Ÿ"/>
+            <when state="Diacritic ¯" output="Ȳ"/>
+            <when state="Diacritic ´" output="Ý"/>
+            <when state="Diacritic ʔ" output="Ƴ"/>
+            <when state="Diacritic ˀ" output="Ỷ"/>
+            <when state="Diacritic ˆ" output="Ŷ"/>
+            <when state="Diacritic ˙" output="Ẏ"/>
+            <when state="Diacritic ˚" output="Y̊"/>
+            <when state="Diacritic ˜" output="Ỹ"/>
+            <when state="Diacritic №" output="Ɣ"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓨ"/>
+            <when state="Y³⁹" output="Y³⁹"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≗"/>
+            <when state="♬ Musical Composition ♬" output="&#x1D122;"/>
+        </action>
+        <action id="66">
+            <when state="none" output="G"/>
+            <when state="-" output="Ǥ"/>
+            <when state="Diacritic ¯" output="Ḡ"/>
+            <when state="Diacritic ´" output="Ǵ"/>
+            <when state="Diacritic ¸" output="Ģ"/>
+            <when state="Diacritic ʔ" output="Ɠ"/>
+            <when state="Diacritic ˆ" output="Ĝ"/>
+            <when state="Diacritic ˇ" output="Ǧ"/>
+            <when state="Diacritic ˘" output="Ğ"/>
+            <when state="Diacritic ˙" output="Ġ"/>
+            <when state="Diacritic №" output="Ʊ"/>
+            <when state="Latin Superscripts and Subscripts" output="ᵍ"/>
+        </action>
+        <action id="67">
+            <when state="none" output="g"/>
+            <when state="-" output="ǥ"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="Ga"/>
+            <when state="Braille Alphabet" output="⠛"/>
+            <when state="Currency Symbols (¤)" output="₲"/>
+            <when state="Diacritic ¯" output="ḡ"/>
+            <when state="Diacritic ´" output="ǵ"/>
+            <when state="Diacritic ¸" output="ģ"/>
+            <when state="Diacritic ʔ" output="ɠ"/>
+            <when state="Diacritic ˆ" output="ĝ"/>
+            <when state="Diacritic ˇ" output="ǧ"/>
+            <when state="Diacritic ˘" output="ğ"/>
+            <when state="Diacritic ˙" output="ġ"/>
+            <when state="Diacritic №" output="ʊ"/>
+            <when state="H" output="Hg⁸⁰"/>
+            <when state="Mg" output="Mg¹²"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="〶"/>
+            <when state="Rn⁸⁶" output="Rg¹¹¹"/>
+            <when state="S" output="Sg¹⁰⁶"/>
+            <when state="∱TEAM Symbolfications" output="⨕"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≚"/>
+            <when state="♬ Musical Composition ♬" output="&#x1D11E;"/>
+        </action>
+        <action id="68">
+            <when state="none" output="K"/>
+            <when state="Diacritic ." output="Ḳ"/>
+            <when state="Diacritic `" output="Ǜ"/>
+            <when state="Diacritic ¯" output="Ǖ"/>
+            <when state="Diacritic ´" output="ǗḰ"/>
+            <when state="Diacritic ¸" output="Ķ"/>
+            <when state="Diacritic ʔ" output="Ƙ"/>
+            <when state="Diacritic ˇ" output="ǙǨ"/>
+            <when state="Diacritic ˍ" output="Ḵ"/>
+            <when state="Diacritic №" output="K’"/>
+            <when state="Latin Superscripts and Subscripts" output="ᵏ"/>
+        </action>
+        <action id="69">
+            <when state="none" output="k"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="K"/>
+            <when state="Braille Alphabet" output="⠅"/>
+            <when state="B⁵" output="Bk⁹⁷"/>
+            <when state="Currency Symbols (¤)" output="₭"/>
+            <when state="Diacritic ." output="ḳ"/>
+            <when state="Diacritic `" output="ǜ"/>
+            <when state="Diacritic ¯" output="ǖ"/>
+            <when state="Diacritic ´" output="ǘḱ"/>
+            <when state="Diacritic ¸" output="ķ"/>
+            <when state="Diacritic ʔ" output="ƙ"/>
+            <when state="Diacritic ˇ" output="ǚǩ"/>
+            <when state="Diacritic ˍ" output="ḵ"/>
+            <when state="Diacritic №" output="ĸ"/>
+            <when state="K" output="K¹⁹"/>
+            <when state="Latin Superscripts and Subscripts" output="ₖ"/>
+            <when state="N⁷" output="Nb¹⁰²"/>
+            <when state="P" output="Pb⁸²"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓚ"/>
+        </action>
+        <action id="70">
+            <when state="none" output="|"/>
+            <when state="Diacritic №" output="Ƿ"/>
+        </action>
+        <action id="71">
+            <when state="none" output=","/>
+            <when state="Braille Alphabet" output="⠂"/>
+            <when state="∱TEAM Symbolfications" output="∯"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≔"/>
+        </action>
+        <action id="72">
+            <when state="none" output="Q"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="∦"/>
+        </action>
+        <action id="73">
+            <when state="none" output="q"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" output="⏣"/>
+            <when state="Braille Alphabet" output="⠟"/>
+            <when state="Copy | Editors Play ∱pace (Commas Galore)" output="«"/>
+            <when state="Currency Symbols (¤)" output="Q"/>
+            <when state="Diacritic ʔ" output="ʠ"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="∥"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓠ"/>
+            <when state="∱TEAM Symbolfications" output="↕"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≻"/>
+        </action>
+        <action id="74">
+            <when state="none" output="F"/>
+            <when state="Diacritic ʔ" output="Ƒ"/>
+            <when state="Diacritic ˙" output="Ḟ"/>
+            <when state="Diacritic №" output="Ȝ"/>
+            <when state="Latin Superscripts and Subscripts" output="ᶠ"/>
+        </action>
+        <action id="75">
+            <when state="none" output="f"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="F⁹"/>
+            <when state="Braille Alphabet" output="⠋"/>
+            <when state="Currency Symbols (¤)" output="Ft"/>
+            <when state="C⁶" output="Cf⁹⁸"/>
+            <when state="Diacritic ʔ" output="ƒ"/>
+            <when state="Diacritic ˙" output="ḟ"/>
+            <when state="Diacritic №" output="ſ"/>
+            <when state="F⁹" output="F⁹"/>
+            <when state="H" output="Hf⁷²"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓕ"/>
+            <when state="Rn⁸⁶" output="Rf¹⁰⁴"/>
+            <when state="∱TREAM" output="ﷺ"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≘"/>
+        </action>
+        <action id="76">
+            <when state="none" output="\"/>
+            <when state="Braille Alphabet" output="⠒"/>
+            <when state="Diacritic №" output="Ʒ"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="∡"/>
+        </action>
+        <action id="77">
+            <when state="none" output="/"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" output="⌬"/>
+            <when state="Braille Alphabet" output="⠆"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="∠"/>
+            <when state="∱TEAM Symbolfications" output="⨛"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≺"/>
+        </action>
+        <action id="78">
+            <when state="none" output="@"/>
+            <when state="Diacritic №" output="Ƨ"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≃"/>
+        </action>
+        <action id="79">
+            <when state="none" output="2"/>
+            <when state="Braille Alphabet" output="⠃"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="≚"/>
+            <when state="∱TREAM" output="⇯"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≄"/>
+        </action>
+        <action id="80">
+            <when state="none" output="#"/>
+            <when state="Diacritic №" output="Ɛ"/>
+        </action>
+        <action id="81">
+            <when state="none" output="3"/>
+            <when state="Braille Alphabet" output="⠉"/>
+            <when state="Diacritic №" output="ɛ"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="≙"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="㊱"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≀"/>
+        </action>
+        <action id="82">
+            <when state="none" output="%"/>
+            <when state="Diacritic №" output="Ƽ"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≈"/>
+        </action>
+        <action id="83">
+            <when state="none" output="5"/>
+            <when state="Braille Alphabet" output="⠑"/>
+            <when state="Diacritic №" output="ƽ"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≉"/>
+        </action>
+        <action id="84">
+            <when state="none" output=";"/>
+            <when state="Diacritic №" output="Ƅ"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≋"/>
+        </action>
+        <action id="85">
+            <when state="none" output="6"/>
+            <when state="Braille Alphabet" output="⠋"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≊"/>
+        </action>
+        <action id="86">
+            <when state="none" output="7"/>
+            <when state="Braille Alphabet" output="⠛"/>
+            <when state="Diacritic №" output="⁊"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≍"/>
+        </action>
+        <action id="87">
+            <when state="none" output="*"/>
+            <when state="Diacritic №" output="Ȣ"/>
+        </action>
+        <action id="88">
+            <when state="none" output="8"/>
+            <when state="Braille Alphabet" output="⠓"/>
+            <when state="Diacritic №" output="ȣ"/>
+            <when state="∱TEAM Symbolfications" output="¤"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≎"/>
+        </action>
+        <action id="89">
+            <when state="none" output="_"/>
+            <when state="Diacritic №" output="ʺ"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≷"/>
+        </action>
+        <action id="90">
+            <when state="none" output="-"/>
+            <when state="Diacritic №" output="ʹ"/>
+            <when state="∱TEAM Symbolfications" output="¯"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≹"/>
+        </action>
+        <action id="91">
+            <when state="none" next="Copy | Editors Play ∱pace (Commas Galore)"/>
+            <when state="Diacritic ¯" output="Ǣ"/>
+            <when state="Diacritic ´" output="Ǽ"/>
+        </action>
+        <action id="92">
+            <when state="none" next="Diacritic ˍ"/>
+            <when state="Diacritic ¯" output="ǣ"/>
+            <when state="Diacritic ´" output="ǽ"/>
+        </action>
+        <action id="93">
+            <when state="none" output="̂"/>
+            <when state="Diacritic ´" output="Ǿ"/>
+        </action>
+        <action id="94">
+            <when state="none" next="ʼ"/>
+            <when state="Diacritic ´" output="ǿ"/>
+        </action>
+        <action id="95">
+            <when state="none" output="Å"/>
+            <when state="Diacritic ´" output="Ǻ"/>
+        </action>
+        <action id="96">
+            <when state="none" output="å"/>
+            <when state="Diacritic ´" output="ǻ"/>
+        </action>
+        <action id="97">
+            <when state="none" next="Diacritic  ̑"/>
+            <when state="Diacritic №" output="ʼ"/>
+        </action>
+        <action id="98">
+            <when state="none" output="÷"/>
+            <when state="Diacritic №" output="ʻ"/>
+        </action>
+        <action id="99">
+            <when state="none" output="×"/>
+            <when state="Diacritic №" output="ʽ"/>
+        </action>
+        <action id="100">
+            <when state="none" output="&#x0026;"/>
+        </action>
+        <action id="?">
+            <when state="none" output="?"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≠"/>
+        </action>
+        <action id="Braille Alphabet">
+            <when state="none" next="Braille Alphabet"/>
+        </action>
+        <action id="Diacritic ,">
+            <when state="none" next="Diacritic ,"/>
+        </action>
+        <action id="Diacritic .">
+            <when state="none" next="Diacritic ."/>
+        </action>
+        <action id="Diacritic `">
+            <when state="none" next="Diacritic `"/>
+        </action>
+        <action id="Diacritic ` 1">
+            <when state="none" next="Diacritic `"/>
+        </action>
+        <action id="Diacritic ¨">
+            <when state="none" next="Diacritic ¨"/>
+        </action>
+        <action id="Diacritic ¯">
+            <when state="none" next="Diacritic ¯"/>
+        </action>
+        <action id="Diacritic ˀ">
+            <when state="none" next="Diacritic ¯"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≯"/>
+        </action>
+        <action id="Diacritic ˀ 1">
+            <when state="none" next="Diacritic ¸"/>
+        </action>
+        <action id="Diacritic ˆ">
+            <when state="none" next="Diacritic ˆ"/>
+        </action>
+        <action id="Diacritic ˆ 1">
+            <when state="none" next="Diacritic ˆ"/>
+        </action>
+        <action id="Diacritic ˍ">
+            <when state="none" next="Diacritic ˍ"/>
+        </action>
+        <action id="Diacritic ˘">
+            <when state="none" next="Diacritic ˘"/>
+        </action>
+        <action id="Diacritic ˘ 1">
+            <when state="none" next="Diacritic ¨"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≨"/>
+        </action>
+        <action id="Diacritic ˘ 2">
+            <when state="none" next="Diacritic ˘"/>
+        </action>
+        <action id="Diacritic ˛">
+            <when state="none" next="Diacritic ˀ"/>
+        </action>
+        <action id="Diacritic ˜">
+            <when state="none" next="Diacritic ˜"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≦"/>
+        </action>
+        <action id="Diacritic ˝">
+            <when state="none" next="Diacritic ˚"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≤"/>
+        </action>
+        <action id="Diacritic ˝ 1">
+            <when state="none" next="Diacritic ˝"/>
+        </action>
+        <action id="Diacritic ‸">
+            <when state="none" next="Diacritic ‸"/>
+        </action>
+        <action id="Diacritic ‸ 1">
+            <when state="none" next="Diacritic ‸"/>
+        </action>
+        <action id="Emoji">
+            <when state="none" next="Emoji"/>
+        </action>
+        <action id="I">
+            <when state="none" output="I"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≪"/>
+        </action>
+        <action id="Mathnautic Symbols Expansion Set (∑)">
+            <when state="none" next="Mathnautic Symbols Expansion Set (∑)"/>
+        </action>
+        <action id="Periodic Table">
+            <when state="none" next="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)"/>
+        </action>
+        <action id="Periodic Table 1">
+            <when state="none" next="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≡"/>
+        </action>
+        <action id="S">
+            <when state="none" output="S"/>
+            <when state="Diacritic ," output="Ș"/>
+            <when state="Diacritic ." output="Ṣ"/>
+            <when state="Diacritic ¯" output="S̄"/>
+            <when state="Diacritic ´" output="Ś"/>
+            <when state="Diacritic ¸" output="Ş"/>
+            <when state="Diacritic ʔ" output="Ʃ"/>
+            <when state="Diacritic ˆ" output="Ŝ"/>
+            <when state="Diacritic ˇ" output="Š"/>
+            <when state="Diacritic ˙" output="Ṡ"/>
+            <when state="Latin Superscripts and Subscripts" output="ˢ"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≶"/>
+        </action>
+        <action id="State 8">
+            <when state="none" next="Diacritic `"/>
+        </action>
+        <action id="State 8 1">
+            <when state="none" next="Diacritic ¸"/>
+        </action>
+        <action id="State 15">
+            <when state="none" next="Diacritic ."/>
+        </action>
+        <action id="State 20">
+            <when state="none" next="Diacritic ˚"/>
+        </action>
+        <action id="State 25">
+            <when state="none" next="Diacritic ˇ"/>
+        </action>
+        <action id="V">
+            <when state="none" output="V"/>
+            <when state="Diacritic ." output="Ṿ"/>
+            <when state="Diacritic ʔ" output="Ʋ"/>
+            <when state="Diacritic ˜" output="Ṽ"/>
+            <when state="Latin Superscripts and Subscripts" output="ᵛ"/>
+        </action>
+        <action id="W">
+            <when state="none" output="W"/>
+            <when state="Diacritic ." output="Ẉ"/>
+            <when state="Diacritic `" output="Ẁ"/>
+            <when state="Diacritic ¨" output="Ẅ"/>
+            <when state="Diacritic ´" output="Ẃ"/>
+            <when state="Diacritic ˆ" output="Ŵ"/>
+            <when state="Diacritic ˙" output="Ẇ"/>
+            <when state="Diacritic ˚" output="W̊"/>
+            <when state="Latin Superscripts and Subscripts" output="ʷ"/>
+        </action>
+        <action id="Z">
+            <when state="none" output="Z"/>
+            <when state="-" output="Ƶ"/>
+            <when state="Diacritic ." output="Ẓ"/>
+            <when state="Diacritic ¯" output="Z̄"/>
+            <when state="Diacritic ´" output="Ź"/>
+            <when state="Diacritic ¸" output="Z̧"/>
+            <when state="Diacritic ʔ" output="Ȥ"/>
+            <when state="Diacritic ˆ" output="Ẑ"/>
+            <when state="Diacritic ˇ" output="Ž"/>
+            <when state="Diacritic ˍ" output="Ẕ"/>
+            <when state="Diacritic ˙" output="Ż"/>
+            <when state="Latin Superscripts and Subscripts" output="ᶻ"/>
+        </action>
+        <action id="]">
+            <when state="none" output="]"/>
+        </action>
+        <action id="s">
+            <when state="none" output="s"/>
+            <when state="Al" output="As³³"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="S"/>
+            <when state="Braille Alphabet" output="⠎"/>
+            <when state="Currency Symbols (¤)" output="贝"/>
+            <when state="C⁶" output="Cs⁵⁵"/>
+            <when state="Db" output="Ds¹¹⁰"/>
+            <when state="Diacritic ," output="ș"/>
+            <when state="Diacritic ." output="ṣ"/>
+            <when state="Diacritic ¯" output="s̄"/>
+            <when state="Diacritic ´" output="ś"/>
+            <when state="Diacritic ¸" output="ş"/>
+            <when state="Diacritic ʔ" output="ʃ"/>
+            <when state="Diacritic ˆ" output="ŝ"/>
+            <when state="Diacritic ˇ" output="š"/>
+            <when state="Diacritic ˙" output="ṡ"/>
+            <when state="Diacritic №" output="ƨ"/>
+            <when state="Eu⁶³" output="Es⁹⁹"/>
+            <when state="H" output="Hs¹⁰⁸"/>
+            <when state="Latin Superscripts and Subscripts" output="ₛ"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="∑"/>
+            <when state="O⁸" output="Os⁷⁸"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="℠"/>
+            <when state="Religious | Calmunity Symbols (A Superimposition Range)" output="⚕"/>
+            <when state="S" output="S¹⁶"/>
+            <when state="U⁹²" output="Uus¹¹⁷"/>
+            <when state="∱TREAM" output="卐"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≸"/>
+            <when state="♬ Musical Composition ♬" output="&#x1F3BC;"/>
+        </action>
+        <action id="v">
+            <when state="none" output="v"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" output="V²³"/>
+            <when state="Braille Alphabet" output="⠧"/>
+            <when state="Currency Symbols (¤)" output="₫"/>
+            <when state="Diacritic ." output="ṿ"/>
+            <when state="Diacritic ʔ" output="ʋ"/>
+            <when state="Diacritic ˜" output="ṽ"/>
+            <when state="Diacritic №" output="ʌ"/>
+            <when state="Latin Superscripts and Subscripts" output="ᵥ"/>
+            <when state="Li³" output="Lv¹¹⁶"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓥ"/>
+            <when state="V²³" output="V²³"/>
+        </action>
+        <action id="w">
+            <when state="none" output="w"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" output="W⁷⁴"/>
+            <when state="Braille Alphabet" output="⠺"/>
+            <when state="Currency Symbols (¤)" output="₩"/>
+            <when state="Diacritic ." output="ẉ"/>
+            <when state="Diacritic `" output="ẁ"/>
+            <when state="Diacritic ¨" output="ẅ"/>
+            <when state="Diacritic ´" output="ẃ"/>
+            <when state="Diacritic ˆ" output="ŵ"/>
+            <when state="Diacritic ˙" output="ẇ"/>
+            <when state="Diacritic ˚" output="ẘ"/>
+            <when state="Diacritic №" output="ȝ"/>
+            <when state="Mathnautic Symbols Expansion Set (∑)" output="W⁵"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓦ"/>
+        </action>
+        <action id="z">
+            <when state="none" output="z"/>
+            <when state="-" output="ƶ"/>
+            <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" next="Zn³⁰"/>
+            <when state="Braille Alphabet" output="⠵"/>
+            <when state="Currency Symbols (¤)" output="zł"/>
+            <when state="Diacritic ." output="ẓ"/>
+            <when state="Diacritic ¯" output="z̄"/>
+            <when state="Diacritic ´" output="ź"/>
+            <when state="Diacritic ¸" output="z̧"/>
+            <when state="Diacritic ʔ" output="ȥ"/>
+            <when state="Diacritic ˆ" output="ẑ"/>
+            <when state="Diacritic ˇ" output="ž"/>
+            <when state="Diacritic ˍ" output="ẕ"/>
+            <when state="Diacritic ˙" output="ż"/>
+            <when state="Diacritic №" output="ʒ"/>
+            <when state="Property Claims (®©Ⓟ™℠)" output="Ⓩ"/>
+            <when state="∱TEAM Symbolfications" output="⨖"/>
+            <when state="∱TREAM" output="▟"/>
+        </action>
+        <action id="~">
+            <when state="none" output="~"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="∼"/>
+        </action>
+        <action id="¢">
+            <when state="none" output="¢"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≇"/>
+        </action>
+        <action id="¤">
+            <when state="none" next="Currency Symbols (¤)"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="∽"/>
+        </action>
+        <action id="ª">
+            <when state="none" next="Latin Superscripts and Subscripts"/>
+        </action>
+        <action id="±">
+            <when state="none" output="±"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≒"/>
+        </action>
+        <action id="¿">
+            <when state="none" output="¿"/>
+        </action>
+        <action id="ñ">
+            <when state="none" output="ñ"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≟"/>
+        </action>
+        <action id="€">
+            <when state="none" output="€"/>
+            <when state="☾∀LM⁴ Herstory (∾)" output="≂"/>
+        </action>
+        <action id="∀⚕☥">
+            <when state="none" next="Religious | Calmunity Symbols (A Superimposition Range)"/>
+            <when state="Religious | Calmunity Symbols (A Superimposition Range)" output="∀"/>
+        </action>
+        <action id="∱">
+            <when state="none" next="ʼ"/>
+        </action>
+        <action id="∱ 1">
+            <when state="none" next="Diacritic ˀ"/>
+        </action>
+        <action id="∱ 2">
+            <when state="none" next="Diacritic ˙"/>
+        </action>
+        <action id="∱TEAM">
+            <when state="none" next="∱TEAM Symbolfications"/>
+        </action>
+        <action id="∱TREAM">
+            <when state="none" next="∱TREAM"/>
+        </action>
+        <action id="≤">
+            <when state="none" next="Property Claims (®©Ⓟ™℠)"/>
+        </action>
+        <action id="☂">
+            <when state="none" next="-"/>
+        </action>
+        <action id="☾∀LM⁴ Herstory (∾)">
+            <when state="none" next="☾∀LM⁴ Herstory (∾)"/>
+        </action>
+        <action id="☾☤✝">
+            <when state="none" next="Religious | Calmunity Symbols (C Superimposition Range)"/>
+        </action>
+        <action id="♬ Musical Composition ♬">
+            <when state="none" next="♬ Musical Composition ♬"/>
+        </action>
+    </actions>
+    <terminators>
+        <when state="-" output="-"/>
+        <when state="Al" output="Al¹³"/>
+        <when state="Aromatic Ring (Mend-a-לב) Alchemist Tranformational Periodic Table)" output="⏣"/>
+        <when state="Braille Alphabet" output="⣿"/>
+        <when state="B⁵" output="B⁵"/>
+        <when state="Copy | Editors Play ∱pace (Commas Galore)" output="“"/>
+        <when state="Currency Symbols (¤)" output="¤"/>
+        <when state="C⁶" output="C⁶"/>
+        <when state="Db" output="Db¹⁰⁵"/>
+        <when state="Diacritic &#x0022;" output=" ̏"/>
+        <when state="Diacritic ," output=","/>
+        <when state="Diacritic ." output="."/>
+        <when state="Diacritic `" output="`"/>
+        <when state="Diacritic  ̑" output=" ̑"/>
+        <when state="Diacritic  ̰" output=" ̰"/>
+        <when state="Diacritic ¨" output="ӛ"/>
+        <when state="Diacritic ¯" output="¯"/>
+        <when state="Diacritic ´" output="´"/>
+        <when state="Diacritic ¸" output="¸"/>
+        <when state="Diacritic ʔ" output="ʔ"/>
+        <when state="Diacritic ˀ" output="ˀ"/>
+        <when state="Diacritic ˆ" output="ˆ"/>
+        <when state="Diacritic ˇ" output="ˇ"/>
+        <when state="Diacritic ˍ" output="—"/>
+        <when state="Diacritic ˘" output="ğ"/>
+        <when state="Diacritic ˙" output="˙"/>
+        <when state="Diacritic ˚" output="˚"/>
+        <when state="Diacritic ˛" output="˛"/>
+        <when state="Diacritic ˜" output="ẽ"/>
+        <when state="Diacritic ˝" output="˝"/>
+        <when state="Diacritic ‸" output="‸"/>
+        <when state="Diacritic №" output="№"/>
+        <when state="Emoji" output="&#x1F600;"/>
+        <when state="Eu⁶³" output="Es⁹⁹"/>
+        <when state="F⁹" output="F⁹"/>
+        <when state="Ga" output="Ga³¹"/>
+        <when state="H" output="H¹"/>
+        <when state="I⁵³" output="I⁵³"/>
+        <when state="K" output="K¹⁹"/>
+        <when state="Latin Superscripts and Subscripts" output="ª"/>
+        <when state="Li³" output="Li³"/>
+        <when state="Mathnautic Symbols Expansion Set (∑)" output="∑"/>
+        <when state="Mg" output="Mg¹²"/>
+        <when state="N⁷" output="N⁷"/>
+        <when state="O⁸" output="O⁸"/>
+        <when state="P" output="P¹⁵"/>
+        <when state="Property Claims (®©Ⓟ™℠)" output="Ⓦ"/>
+        <when state="Religious | Calmunity Symbols (A Superimposition Range)" output="∀⚕"/>
+        <when state="Religious | Calmunity Symbols (C Superimposition Range)" output="☾"/>
+        <when state="Rn⁸⁶" output="Rn⁸⁶"/>
+        <when state="S" output="S¹⁶"/>
+        <when state="Ti²²" output="Ti²²"/>
+        <when state="U⁹²" output="U⁹²"/>
+        <when state="V²³" output="V²³"/>
+        <when state="Y³⁹" output="Y³⁹"/>
+        <when state="Zn³⁰" output="Zn³⁰"/>
+        <when state="ʼ" output="ʼ"/>
+        <when state="∱TEAM Symbolfications" output="∱"/>
+        <when state="∱TREAM" output="⏣"/>
+        <when state="☾∀LM⁴ Herstory (∾)" output="∾"/>
+        <when state="♬ Musical Composition ♬" output="♬"/>
+    </terminators>
+</keyboard>

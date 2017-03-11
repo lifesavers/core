@@ -1,0 +1,26 @@
+{
+  "somaliland": {
+    "api": {
+      "http://....": [
+        "xml",
+        "rdf"
+      ]
+    },
+    "unprocessed": {
+      "http://....": [
+        "html",
+        "txt"
+      ]
+    },
+    "scrapers": {
+      "github": [
+        "user/repo",
+        "ruby",
+        [
+          "xml"
+        ]
+      ]
+    }
+  },
+  "western sahara": null
+}
