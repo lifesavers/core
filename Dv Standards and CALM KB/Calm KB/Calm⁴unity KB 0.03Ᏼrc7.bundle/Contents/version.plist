@@ -1,0 +1,27 @@
+<<<<<<< HEAD:CALM KB and Dv Standards/Calm KB/Calm⁴unity KB 0.03Ᏼrc7.bundle/Contents/version.plist
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildVersion</key>
+	<string>7</string>
+	<key>ProjectName</key>
+	<string>Calm KB</string>
+	<key>SourceVersion</key>
+	<string>0</string>
+</dict>
+</plist>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildVersion</key>
+	<string>7</string>
+	<key>ProjectName</key>
+	<string>Calm⁴unity KB 0.03Ᏼrc7</string>
+	<key>SourceVersion</key>
+	<string>0</string>
+</dict>
+</plist>
+>>>>>>> 051e5c9a39c15f2a672c1595db0465100de6de7d:Dv Standards and CALM KB/Calm KB/Calm⁴unity KB 0.03Ᏼrc7.bundle/Contents/version.plist

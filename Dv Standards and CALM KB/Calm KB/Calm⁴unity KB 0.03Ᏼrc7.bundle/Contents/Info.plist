@@ -1,0 +1,41 @@
+<<<<<<< HEAD:CALM KB and Dv Standards/Calm KB/Calm⁴unity KB 0.03Ᏼrc7.bundle/Contents/Info.plist
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.</string>
+	<key>CFBundleName</key>
+	<string>Calm KB</string>
+	<key>CFBundleVersion</key>
+	<string>v0.03Ᏼ</string>
+	<key>KLInfo_Calm KB Path Finder | v0.03βrc7</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout..calmkbpathfinder|v0.03βrc7</string>
+		<key>TISIntendedLanguage</key>
+		<string>cpe-US</string>
+	</dict>
+</dict>
+</plist>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.</string>
+	<key>CFBundleName</key>
+	<string>Calm⁴unity KB 0.03Ᏼrc7</string>
+	<key>CFBundleVersion</key>
+	<string>v0.03Ᏼ</string>
+	<key>KLInfo_Calm KB Path Finder | v0.03βrc7</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout..calmkbpathfinder|v0.03βrc7</string>
+		<key>TISIntendedLanguage</key>
+		<string>cpe-US</string>
+	</dict>
+</dict>
+</plist>
+>>>>>>> 051e5c9a39c15f2a672c1595db0465100de6de7d:Dv Standards and CALM KB/Calm KB/Calm⁴unity KB 0.03Ᏼrc7.bundle/Contents/Info.plist
